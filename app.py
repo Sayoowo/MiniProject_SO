@@ -266,3 +266,4 @@ col3.metric(
     "Average attendance",
     f"{filtered['attendance_pct'].mean():.1f}%",
 )
+""" “Help me build a Streamlit app from scratch using Git, with data handling, sidebar filters, KPIs, accessible charts, and an insights panel” prompt. Claude, Claude Opus 5.5 version, Anthropic, 6 Nov. 2026, claude.ai."""
