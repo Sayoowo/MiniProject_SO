@@ -1,0 +1,1201 @@
+student_id,major,class_level,first_gen,work_hours_week,course,attendance_pct,study_hours_week,final_score,letter_grade
+S0001,Business,Freshman,Yes,20,Composition,78.1,,69.9,D
+S0001,Business,Freshman,Yes,20,Statistics,89.0,9.2,78.1,C
+S0001,Business,Freshman,Yes,20,College Algebra,73.0,5.3,65.6,D
+S0002,Business,Freshman,No,20,College Algebra,71.5,1.7,69.3,D
+S0002,Business,Freshman,No,20,Intro Programming,59.3,7.2,77.7,C
+S0002,Business,Freshman,No,20,Statistics,78.6,6.4,55.1,F
+S0003,Engineering,Sophomore,Yes,10,College Algebra,65.2,7.3,74.7,C
+S0003,Engineering,Sophomore,Yes,10,Intro Programming,85.5,6.2,71.1,C
+S0003,Engineering,Sophomore,Yes,10,Composition,89.1,4.5,66.8,D
+S0004,Engineering,Sophomore,No,0,Statistics,90.8,6.1,78.1,C
+S0004,Engineering,Sophomore,No,0,Chemistry,84.2,4.4,78.4,C
+S0004,Engineering,Sophomore,No,0,Intro Programming,73.4,8.7,77.4,C
+S0005,Computer Science,Freshman,Yes,0,College Algebra,87.8,8.1,89.3,B
+S0005,Computer Science,Freshman,Yes,0,Statistics,100.0,3.9,75.5,C
+S0005,Computer Science,Freshman,Yes,0,Chemistry,91.8,8.3,90.2,A
+S0006,Business,Junior,No,20,Intro Programming,99.3,6.5,85.7,B
+S0006,Business,Junior,No,20,Statistics,69.4,6.3,67.0,D
+S0006,Business,Junior,No,20,College Algebra,94.7,3.4,54.8,F
+S0007,Biology,Freshman,No,10,College Algebra,71.8,8.5,71.5,C
+S0007,Biology,Freshman,No,10,Composition,81.9,,63.7,D
+S0007,Biology,Freshman,No,10,Statistics,88.6,6.4,66.8,D
+S0008,Biology,Freshman,No,30,College Algebra,73.0,11.0,81.5,B
+S0008,Biology,Freshman,No,30,Intro Programming,70.0,0.0,63.8,D
+S0008,Biology,Freshman,No,30,Composition,73.7,3.7,77.4,C
+S0009,Business,Sophomore,No,20,Chemistry,70.1,6.1,61.9,D
+S0009,Business,Sophomore,No,20,Statistics,86.2,0.0,67.7,D
+S0009,Business,Sophomore,No,20,College Algebra,71.9,7.5,89.7,B
+S0010,Engineering,Freshman,No,0,Composition,82.9,9.7,81.9,B
+S0010,Engineering,Freshman,No,0,Chemistry,77.3,3.8,74.5,C
+S0010,Engineering,Freshman,No,0,Intro Programming,100.0,5.4,83.7,B
+S0011,Engineering,Junior,Yes,0,Chemistry,89.3,6.2,85.6,B
+S0011,Engineering,Junior,Yes,0,Statistics,86.2,13.2,72.5,C
+S0011,Engineering,Junior,Yes,0,Composition,100.0,7.2,74.1,C
+S0012,Biology,Freshman,No,0,Intro Programming,83.1,0.8,61.7,D
+S0012,Biology,Freshman,No,0,Chemistry,90.4,2.2,88.1,B
+S0012,Biology,Freshman,No,0,College Algebra,95.8,4.4,84.0,B
+S0013,Computer Science,Sophomore,No,10,Intro Programming,85.4,8.1,82.7,B
+S0013,Computer Science,Sophomore,No,10,College Algebra,89.9,9.5,74.1,C
+S0013,Computer Science,Sophomore,No,10,Composition,74.5,11.5,93.7,A
+S0014,Engineering,Sophomore,Yes,0,College Algebra,72.4,6.6,73.9,C
+S0014,Engineering,Sophomore,Yes,0,Composition,100.0,1.7,73.5,C
+S0014,Engineering,Sophomore,Yes,0,Chemistry,91.1,10.0,87.7,B
+S0015,Computer Science,Freshman,No,30,Composition,76.2,,72.2,C
+S0015,Computer Science,Freshman,No,30,College Algebra,64.6,6.1,64.4,D
+S0015,Computer Science,Freshman,No,30,Statistics,85.3,5.7,88.3,B
+S0016,Computer Science,Junior,Yes,20,Composition,79.9,10.1,86.0,B
+S0016,Computer Science,Junior,Yes,20,Chemistry,74.6,8.3,69.5,D
+S0016,Computer Science,Junior,Yes,20,Intro Programming,74.9,4.4,79.8,C
+S0017,Business,Senior,No,10,Composition,79.0,7.6,68.6,D
+S0017,Business,Senior,No,10,Statistics,77.0,5.2,70.3,C
+S0017,Business,Senior,No,10,Chemistry,80.8,6.9,86.6,B
+S0018,Business,Freshman,No,20,Statistics,82.8,8.7,83.9,B
+S0018,Business,Freshman,No,20,Chemistry,76.7,6.6,64.0,D
+S0018,Business,Freshman,No,20,Composition,74.7,2.9,79.4,C
+S0019,Engineering,Junior,No,10,Composition,75.9,8.7,77.6,C
+S0019,Engineering,Junior,No,10,Intro Programming,83.5,6.1,71.3,C
+S0019,Engineering,Junior,No,10,Chemistry,83.8,2.5,78.9,C
+S0020,Psychology,Freshman,No,30,Chemistry,78.7,6.9,78.9,C
+S0020,Psychology,Freshman,No,30,Intro Programming,75.6,9.0,72.0,C
+S0020,Psychology,Freshman,No,30,Composition,72.7,7.5,68.6,D
+S0021,Engineering,Senior,No,30,Chemistry,71.5,8.8,66.2,D
+S0021,Engineering,Senior,No,30,Intro Programming,76.8,5.4,86.0,B
+S0021,Engineering,Senior,No,30,Composition,61.7,4.0,63.6,D
+S0022,Psychology,Sophomore,No,0,Statistics,72.0,6.4,64.9,D
+S0022,Psychology,Sophomore,No,0,Intro Programming,81.1,,77.9,C
+S0022,Psychology,Sophomore,No,0,Chemistry,95.0,11.4,84.5,B
+S0023,Business,Sophomore,Yes,10,Intro Programming,84.7,7.3,87.3,B
+S0023,Business,Sophomore,Yes,10,College Algebra,78.1,8.9,79.8,C
+S0023,Business,Sophomore,Yes,10,Statistics,81.8,2.8,67.5,D
+S0024,Psychology,Freshman,No,0,Statistics,74.6,10.1,72.8,C
+S0024,Psychology,Freshman,No,0,Chemistry,81.0,10.5,73.6,C
+S0024,Psychology,Freshman,No,0,College Algebra,80.4,10.3,91.9,A
+S0025,Psychology,Freshman,Yes,30,Chemistry,80.3,6.4,74.4,C
+S0025,Psychology,Freshman,Yes,30,College Algebra,85.2,9.4,72.2,C
+S0025,Psychology,Freshman,Yes,30,Composition,68.6,7.2,70.7,C
+S0026,Biology,Junior,Yes,10,Intro Programming,76.1,5.2,62.7,D
+S0026,Biology,Junior,Yes,10,College Algebra,89.5,5.0,70.0,C
+S0026,Biology,Junior,Yes,10,Statistics,64.5,8.4,71.2,C
+S0027,Engineering,Senior,Yes,10,Chemistry,84.7,8.0,60.2,D
+S0027,Engineering,Senior,Yes,10,Intro Programming,92.6,9.1,81.0,B
+S0027,Engineering,Senior,Yes,10,Composition,78.9,1.4,71.2,C
+S0028,Engineering,Sophomore,No,10,College Algebra,70.3,7.1,77.4,C
+S0028,Engineering,Sophomore,No,10,Chemistry,80.5,7.1,74.6,C
+S0028,Engineering,Sophomore,No,10,Intro Programming,71.2,9.7,85.5,B
+S0029,Business,Freshman,No,10,College Algebra,72.3,4.5,65.0,D
+S0029,Business,Freshman,No,10,Intro Programming,81.9,6.8,66.8,D
+S0029,Business,Freshman,No,10,Statistics,71.7,1.0,60.8,D
+S0030,Engineering,Junior,Yes,0,Statistics,76.7,3.9,63.6,D
+S0030,Engineering,Junior,Yes,0,Intro Programming,86.8,12.1,82.4,B
+S0030,Engineering,Junior,Yes,0,College Algebra,70.4,10.2,74.3,C
+S0031,Biology,Sophomore,Yes,0,Chemistry,85.4,11.1,74.5,C
+S0031,Biology,Sophomore,Yes,0,College Algebra,85.5,7.7,83.6,B
+S0031,Biology,Sophomore,Yes,0,Composition,100.0,4.7,80.0,C
+S0032,Biology,Freshman,No,30,Composition,77.4,2.9,69.0,D
+S0032,Biology,Freshman,No,30,Chemistry,80.7,4.4,60.8,D
+S0032,Biology,Freshman,No,30,Statistics,65.7,9.8,84.5,B
+S0033,Business,Freshman,No,10,Statistics,87.1,3.9,65.4,D
+S0033,Business,Freshman,No,10,Chemistry,88.4,7.8,80.6,B
+S0033,Business,Freshman,No,10,Intro Programming,82.3,3.3,75.9,C
+S0034,Computer Science,Junior,Yes,10,Statistics,77.0,5.3,74.2,C
+S0034,Computer Science,Junior,Yes,10,Intro Programming,86.5,9.7,97.3,A
+S0034,Computer Science,Junior,Yes,10,College Algebra,83.1,8.6,81.6,B
+S0035,Psychology,Sophomore,No,30,Intro Programming,77.1,4.7,74.1,C
+S0035,Psychology,Sophomore,No,30,Statistics,76.2,0.7,71.5,C
+S0035,Psychology,Sophomore,No,30,Composition,63.1,4.7,64.0,D
+S0036,Biology,Junior,Yes,0,Statistics,80.8,8.1,76.7,C
+S0036,Biology,Junior,Yes,0,Composition,79.2,12.2,86.3,B
+S0036,Biology,Junior,Yes,0,Intro Programming,75.0,12.5,69.3,D
+S0037,Biology,Junior,No,0,Statistics,66.9,10.5,72.8,C
+S0037,Biology,Junior,No,0,Composition,76.8,11.0,87.5,B
+S0037,Biology,Junior,No,0,College Algebra,86.8,8.9,85.1,B
+S0038,Computer Science,Junior,Yes,10,Intro Programming,75.5,4.0,81.6,B
+S0038,Computer Science,Junior,Yes,10,College Algebra,76.9,5.4,65.7,D
+S0038,Computer Science,Junior,Yes,10,Chemistry,88.7,0.6,65.3,D
+S0039,Computer Science,Sophomore,No,20,Chemistry,61.2,4.8,54.6,F
+S0039,Computer Science,Sophomore,No,20,College Algebra,80.1,5.7,71.5,C
+S0039,Computer Science,Sophomore,No,20,Intro Programming,79.4,3.7,62.9,D
+S0040,Psychology,Sophomore,No,10,Chemistry,90.8,4.9,87.9,B
+S0040,Psychology,Sophomore,No,10,Intro Programming,78.8,4.7,69.9,D
+S0040,Psychology,Sophomore,No,10,Statistics,80.7,8.3,89.7,B
+S0041,Engineering,Freshman,Yes,20,Composition,72.2,2.7,65.7,D
+S0041,Engineering,Freshman,Yes,20,Statistics,58.9,8.2,61.4,D
+S0041,Engineering,Freshman,Yes,20,Chemistry,83.7,7.4,64.9,D
+S0042,Psychology,Freshman,No,20,College Algebra,85.1,6.8,76.7,C
+S0042,Psychology,Freshman,No,20,Composition,68.4,6.7,70.0,D
+S0042,Psychology,Freshman,No,20,Chemistry,59.6,7.3,58.4,F
+S0043,Engineering,Sophomore,Yes,0,Intro Programming,78.7,10.9,85.2,B
+S0043,Engineering,Sophomore,Yes,0,College Algebra,89.5,11.8,82.3,B
+S0043,Engineering,Sophomore,Yes,0,Chemistry,88.6,6.3,67.7,D
+S0044,Engineering,Freshman,No,10,Statistics,73.6,8.8,74.3,C
+S0044,Engineering,Freshman,No,10,Composition,58.4,7.4,80.2,B
+S0044,Engineering,Freshman,No,10,Intro Programming,83.5,12.8,80.2,B
+S0045,Business,Junior,Yes,10,Chemistry,83.5,7.5,57.2,F
+S0045,Business,Junior,Yes,10,College Algebra,99.8,12.9,100.0,A
+S0045,Business,Junior,Yes,10,Statistics,85.4,7.5,72.9,C
+S0046,Engineering,Junior,No,30,Composition,80.8,11.7,99.7,A
+S0046,Engineering,Junior,No,30,Intro Programming,80.8,2.9,79.3,C
+S0046,Engineering,Junior,No,30,College Algebra,63.5,,61.6,D
+S0047,Psychology,Junior,No,0,Chemistry,92.3,10.6,76.8,C
+S0047,Psychology,Junior,No,0,Statistics,83.6,6.7,80.7,B
+S0047,Psychology,Junior,No,0,Composition,68.3,6.6,83.0,B
+S0048,Computer Science,Sophomore,No,10,Chemistry,66.0,5.4,66.5,D
+S0048,Computer Science,Sophomore,No,10,College Algebra,83.9,12.1,77.5,C
+S0048,Computer Science,Sophomore,No,10,Intro Programming,82.6,9.5,78.7,C
+S0049,Computer Science,Freshman,No,10,Statistics,87.5,1.1,52.1,F
+S0049,Computer Science,Freshman,No,10,Composition,92.7,6.6,84.1,B
+S0049,Computer Science,Freshman,No,10,Chemistry,68.0,4.3,74.1,C
+S0050,Psychology,Freshman,No,20,Statistics,69.2,8.0,72.4,C
+S0050,Psychology,Freshman,No,20,Composition,75.4,9.9,74.3,C
+S0050,Psychology,Freshman,No,20,College Algebra,67.3,9.0,69.4,D
+S0051,Psychology,Senior,No,0,Chemistry,82.4,6.7,75.0,C
+S0051,Psychology,Senior,No,0,Intro Programming,86.2,10.1,99.7,A
+S0051,Psychology,Senior,No,0,Composition,82.0,16.0,74.6,C
+S0052,Biology,Sophomore,No,20,College Algebra,65.6,15.8,93.5,A
+S0052,Biology,Sophomore,No,20,Chemistry,85.5,7.6,79.6,C
+S0052,Biology,Sophomore,No,20,Intro Programming,76.7,7.2,73.9,C
+S0053,Psychology,Junior,No,10,College Algebra,100.0,7.9,86.5,B
+S0053,Psychology,Junior,No,10,Intro Programming,77.8,10.9,78.2,C
+S0053,Psychology,Junior,No,10,Statistics,87.5,2.1,64.9,D
+S0054,Business,Junior,No,30,College Algebra,74.5,8.1,74.7,C
+S0054,Business,Junior,No,30,Composition,75.4,2.8,62.5,D
+S0054,Business,Junior,No,30,Intro Programming,74.6,8.0,73.4,C
+S0055,Psychology,Senior,Yes,0,Composition,78.4,8.3,72.7,C
+S0055,Psychology,Senior,Yes,0,Intro Programming,82.8,9.2,77.9,C
+S0055,Psychology,Senior,Yes,0,College Algebra,94.3,5.6,74.8,C
+S0056,Biology,Sophomore,Yes,0,Intro Programming,88.1,3.5,77.6,C
+S0056,Biology,Sophomore,Yes,0,Statistics,92.5,8.7,79.0,C
+S0056,Biology,Sophomore,Yes,0,Chemistry,84.2,7.9,83.2,B
+S0057,Business,Sophomore,Yes,10,Chemistry,91.6,6.7,69.0,D
+S0057,Business,Sophomore,Yes,10,Intro Programming,88.4,8.2,72.8,C
+S0057,Business,Sophomore,Yes,10,Statistics,79.4,9.1,61.4,D
+S0058,Business,Freshman,Yes,20,Statistics,72.7,5.7,72.8,C
+S0058,Business,Freshman,Yes,20,Composition,76.7,11.1,79.5,C
+S0058,Business,Freshman,Yes,20,Chemistry,92.8,5.8,75.6,C
+S0059,Biology,Freshman,No,20,Intro Programming,74.8,6.1,87.2,B
+S0059,Biology,Freshman,No,20,Composition,85.0,0.7,66.4,D
+S0059,Biology,Freshman,No,20,Statistics,86.3,3.8,73.4,C
+S0060,Computer Science,Senior,Yes,20,Chemistry,64.6,5.8,67.3,D
+S0060,Computer Science,Senior,Yes,20,Composition,63.8,10.3,78.1,C
+S0060,Computer Science,Senior,Yes,20,Intro Programming,68.0,8.1,67.4,D
+S0061,Psychology,Freshman,No,0,Chemistry,81.0,1.1,61.0,D
+S0061,Psychology,Freshman,No,0,Intro Programming,84.4,8.5,79.8,C
+S0061,Psychology,Freshman,No,0,Composition,98.7,7.4,80.8,B
+S0062,Biology,Junior,No,20,Intro Programming,64.0,6.8,78.0,C
+S0062,Biology,Junior,No,20,College Algebra,77.5,1.2,66.4,D
+S0062,Biology,Junior,No,20,Statistics,84.5,7.1,65.8,D
+S0063,Psychology,Sophomore,No,20,Statistics,76.5,6.6,58.4,F
+S0063,Psychology,Sophomore,No,20,College Algebra,84.2,9.4,70.2,C
+S0063,Psychology,Sophomore,No,20,Composition,72.1,2.7,57.6,F
+S0064,Computer Science,Freshman,Yes,20,College Algebra,74.4,5.7,73.1,C
+S0064,Computer Science,Freshman,Yes,20,Chemistry,82.6,4.2,67.4,D
+S0064,Computer Science,Freshman,Yes,20,Intro Programming,72.8,4.5,77.1,C
+S0065,Computer Science,Junior,No,30,Composition,84.4,6.1,92.6,A
+S0065,Computer Science,Junior,No,30,Intro Programming,55.5,3.5,68.6,D
+S0065,Computer Science,Junior,No,30,Chemistry,60.5,5.1,63.9,D
+S0066,Business,Freshman,Yes,10,Statistics,85.5,3.7,85.3,B
+S0066,Business,Freshman,Yes,10,Chemistry,80.6,7.9,72.8,C
+S0066,Business,Freshman,Yes,10,Intro Programming,78.2,5.0,86.9,B
+S0067,Engineering,Freshman,No,20,Chemistry,80.4,5.6,69.6,D
+S0067,Engineering,Freshman,No,20,Statistics,80.6,8.0,69.3,D
+S0067,Engineering,Freshman,No,20,Composition,75.1,8.1,77.8,C
+S0068,Engineering,Junior,Yes,20,Chemistry,77.2,3.2,63.6,D
+S0068,Engineering,Junior,Yes,20,Composition,72.0,9.4,75.3,C
+S0068,Engineering,Junior,Yes,20,Statistics,75.4,9.6,74.3,C
+S0069,Business,Senior,No,0,Statistics,72.4,6.5,59.4,F
+S0069,Business,Senior,No,0,Chemistry,89.9,10.4,83.0,B
+S0069,Business,Senior,No,0,Composition,80.5,4.6,73.2,C
+S0070,Biology,Junior,Yes,0,Composition,75.9,6.9,79.9,C
+S0070,Biology,Junior,Yes,0,Intro Programming,100.0,3.7,69.0,D
+S0070,Biology,Junior,Yes,0,Chemistry,89.2,12.7,90.8,A
+S0071,Business,Senior,Yes,10,College Algebra,88.3,0.0,53.6,F
+S0071,Business,Senior,Yes,10,Chemistry,70.8,7.5,67.1,D
+S0071,Business,Senior,Yes,10,Intro Programming,69.5,12.1,78.5,C
+S0072,Computer Science,Senior,No,0,Intro Programming,84.6,4.2,70.9,C
+S0072,Computer Science,Senior,No,0,Statistics,91.9,9.1,87.4,B
+S0072,Computer Science,Senior,No,0,College Algebra,87.3,11.5,77.8,C
+S0073,Business,Junior,Yes,20,Composition,82.3,7.7,79.3,C
+S0073,Business,Junior,Yes,20,College Algebra,70.9,3.0,58.7,F
+S0073,Business,Junior,Yes,20,Statistics,87.8,4.0,61.7,D
+S0074,Business,Freshman,Yes,20,Intro Programming,76.4,3.1,61.5,D
+S0074,Business,Freshman,Yes,20,Statistics,96.4,1.2,72.7,C
+S0074,Business,Freshman,Yes,20,Chemistry,70.6,6.9,59.5,F
+S0075,Computer Science,Freshman,No,10,Chemistry,69.5,4.1,74.8,C
+S0075,Computer Science,Freshman,No,10,College Algebra,96.0,5.4,88.6,B
+S0075,Computer Science,Freshman,No,10,Composition,80.9,6.3,74.8,C
+S0076,Computer Science,Junior,Yes,0,Statistics,94.0,9.9,84.6,B
+S0076,Computer Science,Junior,Yes,0,Composition,77.5,8.8,75.4,C
+S0076,Computer Science,Junior,Yes,0,Intro Programming,80.2,1.3,77.5,C
+S0077,Computer Science,Senior,No,10,Composition,91.0,4.7,73.7,C
+S0077,Computer Science,Senior,No,10,Chemistry,91.0,9.8,83.8,B
+S0077,Computer Science,Senior,No,10,College Algebra,70.6,6.9,80.3,B
+S0078,Psychology,Junior,Yes,20,Composition,74.4,6.0,76.4,C
+S0078,Psychology,Junior,Yes,20,Chemistry,77.5,5.7,66.1,D
+S0078,Psychology,Junior,Yes,20,College Algebra,78.7,8.0,80.9,B
+S0079,Biology,Senior,No,0,College Algebra,77.1,10.1,75.2,C
+S0079,Biology,Senior,No,0,Intro Programming,86.3,3.4,88.2,B
+S0079,Biology,Senior,No,0,Chemistry,98.7,5.9,69.7,D
+S0080,Psychology,Freshman,No,30,Chemistry,84.5,10.4,76.9,C
+S0080,Psychology,Freshman,No,30,Statistics,69.5,5.0,63.5,D
+S0080,Psychology,Freshman,No,30,Intro Programming,82.6,8.4,84.9,B
+S0081,Engineering,Freshman,No,20,Intro Programming,88.6,5.4,69.6,D
+S0081,Engineering,Freshman,No,20,College Algebra,75.1,12.2,76.2,C
+S0081,Engineering,Freshman,No,20,Statistics,89.3,3.2,71.2,C
+S0082,Psychology,Freshman,Yes,0,Intro Programming,80.0,9.6,75.9,C
+S0082,Psychology,Freshman,Yes,0,Composition,84.2,7.7,87.3,B
+S0082,Psychology,Freshman,Yes,0,College Algebra,90.5,4.6,65.8,D
+S0083,Biology,Freshman,No,0,Intro Programming,82.6,6.7,65.1,D
+S0083,Biology,Freshman,No,0,College Algebra,96.0,4.8,69.4,D
+S0083,Biology,Freshman,No,0,Chemistry,87.8,11.1,87.8,B
+S0084,Engineering,Junior,No,20,Intro Programming,83.8,12.2,94.0,A
+S0084,Engineering,Junior,No,20,Chemistry,81.2,4.8,79.1,C
+S0084,Engineering,Junior,No,20,Statistics,87.8,8.9,80.5,B
+S0085,Psychology,Junior,Yes,20,Statistics,84.5,8.4,78.1,C
+S0085,Psychology,Junior,Yes,20,College Algebra,85.2,15.8,85.6,B
+S0085,Psychology,Junior,Yes,20,Composition,72.3,7.5,67.3,D
+S0086,Biology,Freshman,Yes,30,Statistics,70.9,7.0,73.4,C
+S0086,Biology,Freshman,Yes,30,College Algebra,75.4,7.3,73.2,C
+S0086,Biology,Freshman,Yes,30,Chemistry,73.8,3.3,66.7,D
+S0087,Biology,Freshman,Yes,0,College Algebra,68.9,12.7,95.8,A
+S0087,Biology,Freshman,Yes,0,Intro Programming,94.7,12.5,88.1,B
+S0087,Biology,Freshman,Yes,0,Chemistry,78.7,3.9,67.6,D
+S0088,Computer Science,Freshman,No,30,Chemistry,82.9,0.0,53.7,F
+S0088,Computer Science,Freshman,No,30,College Algebra,73.3,7.4,79.9,C
+S0088,Computer Science,Freshman,No,30,Intro Programming,85.2,7.2,71.3,C
+S0089,Biology,Freshman,No,20,Intro Programming,79.6,1.9,60.8,D
+S0089,Biology,Freshman,No,20,Chemistry,79.3,7.1,66.6,D
+S0089,Biology,Freshman,No,20,Statistics,78.0,7.4,86.5,B
+S0090,Business,Sophomore,Yes,0,College Algebra,74.9,7.6,87.2,B
+S0090,Business,Sophomore,Yes,0,Statistics,85.2,2.0,89.5,B
+S0090,Business,Sophomore,Yes,0,Composition,81.8,6.5,79.6,C
+S0091,Computer Science,Senior,No,0,Composition,63.9,9.1,65.6,D
+S0091,Computer Science,Senior,No,0,Intro Programming,70.7,8.4,76.5,C
+S0091,Computer Science,Senior,No,0,Chemistry,89.3,11.1,80.3,B
+S0092,Engineering,Junior,Yes,0,Chemistry,94.0,10.1,73.9,C
+S0092,Engineering,Junior,Yes,0,Composition,80.6,9.8,89.2,B
+S0092,Engineering,Junior,Yes,0,Intro Programming,78.6,6.0,64.7,D
+S0093,Biology,Freshman,Yes,0,Composition,89.2,2.5,79.4,C
+S0093,Biology,Freshman,Yes,0,Chemistry,82.4,10.9,83.5,B
+S0093,Biology,Freshman,Yes,0,Statistics,75.7,8.0,68.7,D
+S0094,Biology,Senior,Yes,0,Statistics,68.7,9.3,87.1,B
+S0094,Biology,Senior,Yes,0,Composition,81.1,9.3,77.1,C
+S0094,Biology,Senior,Yes,0,Chemistry,62.6,5.1,76.8,C
+S0095,Computer Science,Senior,Yes,30,Chemistry,74.6,3.3,70.4,C
+S0095,Computer Science,Senior,Yes,30,College Algebra,73.9,10.8,89.0,B
+S0095,Computer Science,Senior,Yes,30,Intro Programming,75.2,1.7,59.8,F
+S0096,Biology,Freshman,Yes,0,Composition,69.6,7.6,73.5,C
+S0096,Biology,Freshman,Yes,0,Chemistry,81.4,4.2,71.6,C
+S0096,Biology,Freshman,Yes,0,Intro Programming,79.8,10.0,82.7,B
+S0097,Business,Senior,Yes,10,Composition,79.8,7.5,79.6,C
+S0097,Business,Senior,Yes,10,Intro Programming,78.6,8.0,79.4,C
+S0097,Business,Senior,Yes,10,Statistics,66.4,11.1,85.4,B
+S0098,Business,Senior,No,10,Chemistry,85.8,11.4,89.8,B
+S0098,Business,Senior,No,10,Statistics,95.5,11.6,89.7,B
+S0098,Business,Senior,No,10,Intro Programming,73.4,9.1,85.1,B
+S0099,Business,Senior,No,10,Intro Programming,73.3,6.1,74.0,C
+S0099,Business,Senior,No,10,Composition,93.4,17.1,99.8,A
+S0099,Business,Senior,No,10,Chemistry,82.8,6.8,58.9,F
+S0100,Computer Science,Senior,No,30,College Algebra,63.4,9.4,75.7,C
+S0100,Computer Science,Senior,No,30,Intro Programming,80.0,5.2,71.6,C
+S0100,Computer Science,Senior,No,30,Composition,60.0,7.7,79.1,C
+S0101,Business,Sophomore,Yes,10,Chemistry,87.4,5.1,61.0,D
+S0101,Business,Sophomore,Yes,10,Composition,83.8,8.6,78.5,C
+S0101,Business,Sophomore,Yes,10,Statistics,78.3,5.6,68.3,D
+S0102,Biology,Freshman,No,0,Chemistry,82.5,8.1,89.3,B
+S0102,Biology,Freshman,No,0,Statistics,72.2,1.9,67.0,D
+S0102,Biology,Freshman,No,0,Intro Programming,83.0,13.7,95.0,A
+S0103,Engineering,Sophomore,No,0,Composition,84.6,4.9,80.2,B
+S0103,Engineering,Sophomore,No,0,Statistics,93.2,5.2,74.8,C
+S0103,Engineering,Sophomore,No,0,Intro Programming,97.1,8.2,76.2,C
+S0104,Business,Sophomore,No,10,Composition,84.1,8.9,95.8,A
+S0104,Business,Sophomore,No,10,Chemistry,81.0,4.7,70.6,C
+S0104,Business,Sophomore,No,10,Intro Programming,95.0,6.7,87.0,B
+S0105,Business,Junior,Yes,30,Chemistry,59.3,4.9,61.0,D
+S0105,Business,Junior,Yes,30,Intro Programming,75.6,3.9,60.4,D
+S0105,Business,Junior,Yes,30,College Algebra,77.4,7.2,70.4,C
+S0106,Business,Freshman,Yes,0,Statistics,100.0,7.4,81.7,B
+S0106,Business,Freshman,Yes,0,Chemistry,96.3,11.2,76.3,C
+S0106,Business,Freshman,Yes,0,College Algebra,80.2,16.7,90.9,A
+S0107,Engineering,Sophomore,Yes,0,Chemistry,61.4,6.4,58.9,F
+S0107,Engineering,Sophomore,Yes,0,Statistics,68.1,5.2,48.2,F
+S0107,Engineering,Sophomore,Yes,0,Intro Programming,100.0,6.4,78.6,C
+S0108,Engineering,Freshman,No,20,Composition,85.5,4.6,55.0,F
+S0108,Engineering,Freshman,No,20,College Algebra,78.2,9.2,73.1,C
+S0108,Engineering,Freshman,No,20,Chemistry,68.0,4.4,46.1,F
+S0109,Psychology,Freshman,Yes,0,College Algebra,100.0,5.2,72.6,C
+S0109,Psychology,Freshman,Yes,0,Composition,96.4,4.5,80.9,B
+S0109,Psychology,Freshman,Yes,0,Intro Programming,100.0,6.3,67.0,D
+S0110,Computer Science,Freshman,No,20,Chemistry,80.7,1.7,61.0,D
+S0110,Computer Science,Freshman,No,20,Composition,84.8,2.9,75.9,C
+S0110,Computer Science,Freshman,No,20,Statistics,69.2,8.9,64.0,D
+S0111,Business,Senior,No,20,Chemistry,96.6,3.7,58.1,F
+S0111,Business,Senior,No,20,Intro Programming,80.1,4.6,73.8,C
+S0111,Business,Senior,No,20,College Algebra,77.2,2.5,52.7,F
+S0112,Business,Senior,No,30,College Algebra,66.8,3.7,73.8,C
+S0112,Business,Senior,No,30,Statistics,78.3,6.2,60.3,D
+S0112,Business,Senior,No,30,Chemistry,90.9,5.6,72.0,C
+S0113,Computer Science,Sophomore,Yes,30,Chemistry,71.9,2.2,54.2,F
+S0113,Computer Science,Sophomore,Yes,30,Composition,66.8,3.6,56.9,F
+S0113,Computer Science,Sophomore,Yes,30,College Algebra,71.3,5.0,62.0,D
+S0114,Computer Science,Freshman,No,0,College Algebra,90.9,9.5,82.5,B
+S0114,Computer Science,Freshman,No,0,Chemistry,80.4,5.5,74.7,C
+S0114,Computer Science,Freshman,No,0,Statistics,100.0,8.1,87.3,B
+S0115,Engineering,Sophomore,Yes,0,Chemistry,94.7,5.3,79.7,C
+S0115,Engineering,Sophomore,Yes,0,Statistics,77.9,5.8,75.5,C
+S0115,Engineering,Sophomore,Yes,0,Composition,90.4,3.8,81.6,B
+S0116,Psychology,Sophomore,No,30,Chemistry,82.8,0.0,62.7,D
+S0116,Psychology,Sophomore,No,30,College Algebra,68.8,5.7,82.3,B
+S0116,Psychology,Sophomore,No,30,Statistics,86.8,8.6,78.4,C
+S0117,Psychology,Junior,Yes,10,Statistics,91.8,5.8,82.1,B
+S0117,Psychology,Junior,Yes,10,College Algebra,85.9,7.0,73.0,C
+S0117,Psychology,Junior,Yes,10,Chemistry,82.4,6.5,58.0,F
+S0118,Biology,Sophomore,No,0,Composition,90.9,14.2,94.1,A
+S0118,Biology,Sophomore,No,0,Statistics,86.4,8.1,84.9,B
+S0118,Biology,Sophomore,No,0,Intro Programming,89.0,9.7,78.9,C
+S0119,Engineering,Freshman,No,10,Chemistry,86.6,5.5,83.3,B
+S0119,Engineering,Freshman,No,10,College Algebra,77.3,0.9,88.2,B
+S0119,Engineering,Freshman,No,10,Intro Programming,85.3,6.7,82.2,B
+S0120,Computer Science,Freshman,Yes,10,Intro Programming,83.1,7.1,72.9,C
+S0120,Computer Science,Freshman,Yes,10,Statistics,77.4,5.7,72.7,C
+S0120,Computer Science,Freshman,Yes,10,Composition,87.2,7.4,79.2,C
+S0121,Biology,Senior,Yes,10,Chemistry,90.1,9.1,82.5,B
+S0121,Biology,Senior,Yes,10,Statistics,71.8,4.6,68.2,D
+S0121,Biology,Senior,Yes,10,College Algebra,78.8,8.6,82.0,B
+S0122,Psychology,Junior,No,30,Statistics,71.4,8.6,64.6,D
+S0122,Psychology,Junior,No,30,Chemistry,73.0,2.2,65.6,D
+S0122,Psychology,Junior,No,30,Composition,93.0,1.8,71.0,C
+S0123,Biology,Freshman,No,30,Chemistry,72.3,2.8,63.3,D
+S0123,Biology,Freshman,No,30,Intro Programming,67.5,2.5,67.5,D
+S0123,Biology,Freshman,No,30,College Algebra,91.7,1.7,64.0,D
+S0124,Business,Sophomore,Yes,10,Chemistry,96.2,9.0,70.0,D
+S0124,Business,Sophomore,Yes,10,Intro Programming,76.1,12.4,82.2,B
+S0124,Business,Sophomore,Yes,10,Statistics,69.5,8.7,75.7,C
+S0125,Computer Science,Freshman,No,10,Composition,79.3,6.9,75.0,C
+S0125,Computer Science,Freshman,No,10,Chemistry,77.5,9.9,72.2,C
+S0125,Computer Science,Freshman,No,10,Statistics,93.5,4.3,68.7,D
+S0126,Psychology,Junior,Yes,10,Statistics,85.2,11.4,99.8,A
+S0126,Psychology,Junior,Yes,10,Intro Programming,79.5,6.3,84.0,B
+S0126,Psychology,Junior,Yes,10,College Algebra,75.5,2.2,71.0,C
+S0127,Engineering,Freshman,No,0,Statistics,100.0,1.1,82.1,B
+S0127,Engineering,Freshman,No,0,Chemistry,82.2,5.8,70.0,D
+S0127,Engineering,Freshman,No,0,College Algebra,93.9,6.8,80.3,B
+S0128,Business,Freshman,Yes,20,Chemistry,86.4,7.3,73.6,C
+S0128,Business,Freshman,Yes,20,Composition,77.9,8.0,87.1,B
+S0128,Business,Freshman,Yes,20,Statistics,78.1,8.6,79.3,C
+S0129,Business,Sophomore,No,0,Composition,72.6,11.7,86.3,B
+S0129,Business,Sophomore,No,0,College Algebra,87.5,5.2,83.0,B
+S0129,Business,Sophomore,No,0,Intro Programming,78.1,9.6,81.4,B
+S0130,Business,Senior,No,0,Chemistry,71.7,9.2,73.8,C
+S0130,Business,Senior,No,0,Statistics,85.6,7.7,65.4,D
+S0130,Business,Senior,No,0,Intro Programming,78.6,7.6,83.2,B
+S0131,Business,Sophomore,No,20,Statistics,54.3,6.2,61.1,D
+S0131,Business,Sophomore,No,20,Intro Programming,63.9,1.8,69.6,D
+S0131,Business,Sophomore,No,20,College Algebra,75.4,4.7,76.6,C
+S0132,Business,Freshman,Yes,30,Statistics,78.2,4.6,75.2,C
+S0132,Business,Freshman,Yes,30,Composition,80.4,11.4,81.6,B
+S0132,Business,Freshman,Yes,30,Intro Programming,76.9,8.3,81.2,B
+S0133,Computer Science,Freshman,No,0,Intro Programming,88.9,7.0,74.0,C
+S0133,Computer Science,Freshman,No,0,College Algebra,81.4,13.3,90.4,A
+S0133,Computer Science,Freshman,No,0,Composition,66.0,9.3,75.8,C
+S0134,Psychology,Sophomore,Yes,0,Chemistry,75.7,12.4,59.5,F
+S0134,Psychology,Sophomore,Yes,0,College Algebra,82.0,0.0,69.5,D
+S0134,Psychology,Sophomore,Yes,0,Intro Programming,75.0,9.1,72.1,C
+S0135,Biology,Freshman,Yes,0,Chemistry,76.8,7.2,74.8,C
+S0135,Biology,Freshman,Yes,0,College Algebra,95.9,5.3,81.7,B
+S0135,Biology,Freshman,Yes,0,Composition,72.3,10.4,82.9,B
+S0136,Psychology,Junior,Yes,10,Composition,76.0,10.4,75.9,C
+S0136,Psychology,Junior,Yes,10,Chemistry,86.9,5.2,67.7,D
+S0136,Psychology,Junior,Yes,10,College Algebra,87.5,13.0,89.6,B
+S0137,Biology,Junior,Yes,0,Composition,100.0,7.0,78.4,C
+S0137,Biology,Junior,Yes,0,College Algebra,81.5,5.1,72.2,C
+S0137,Biology,Junior,Yes,0,Chemistry,60.2,8.8,55.1,F
+S0138,Business,Senior,Yes,20,College Algebra,76.9,6.0,66.4,D
+S0138,Business,Senior,Yes,20,Intro Programming,74.0,13.1,82.3,B
+S0138,Business,Senior,Yes,20,Statistics,71.5,7.9,73.1,C
+S0139,Computer Science,Junior,Yes,20,Intro Programming,78.0,10.9,83.9,B
+S0139,Computer Science,Junior,Yes,20,Chemistry,78.2,7.3,64.3,D
+S0139,Computer Science,Junior,Yes,20,College Algebra,82.7,2.7,74.7,C
+S0140,Biology,Freshman,No,30,Intro Programming,51.8,6.0,70.6,C
+S0140,Biology,Freshman,No,30,Composition,71.4,3.5,67.9,D
+S0140,Biology,Freshman,No,30,Chemistry,78.7,10.1,84.0,B
+S0141,Business,Sophomore,Yes,0,College Algebra,100.0,0.0,71.2,C
+S0141,Business,Sophomore,Yes,0,Statistics,72.1,7.6,64.9,D
+S0141,Business,Sophomore,Yes,0,Intro Programming,100.0,12.0,92.4,A
+S0142,Biology,Sophomore,No,10,Statistics,71.5,10.6,69.4,D
+S0142,Biology,Sophomore,No,10,Composition,83.4,9.0,96.3,A
+S0142,Biology,Sophomore,No,10,Chemistry,81.9,8.0,82.4,B
+S0143,Business,Sophomore,Yes,20,Statistics,47.7,6.2,56.1,F
+S0143,Business,Sophomore,Yes,20,Composition,82.7,7.2,77.3,C
+S0143,Business,Sophomore,Yes,20,Intro Programming,86.4,4.6,67.1,D
+S0144,Biology,Freshman,Yes,20,Intro Programming,87.6,,80.1,B
+S0144,Biology,Freshman,Yes,20,Statistics,67.7,1.8,48.5,F
+S0144,Biology,Freshman,Yes,20,College Algebra,80.5,9.2,82.8,B
+S0145,Biology,Freshman,Yes,0,Intro Programming,90.4,10.4,97.7,A
+S0145,Biology,Freshman,Yes,0,College Algebra,78.0,14.9,79.6,C
+S0145,Biology,Freshman,Yes,0,Chemistry,92.0,12.5,86.3,B
+S0146,Psychology,Senior,No,10,Statistics,84.1,9.2,78.6,C
+S0146,Psychology,Senior,No,10,College Algebra,71.4,6.8,68.0,D
+S0146,Psychology,Senior,No,10,Chemistry,84.2,9.3,81.4,B
+S0147,Psychology,Freshman,No,20,Statistics,88.5,4.2,70.7,C
+S0147,Psychology,Freshman,No,20,Chemistry,82.1,7.7,74.6,C
+S0147,Psychology,Freshman,No,20,Composition,67.9,9.5,80.0,B
+S0148,Business,Freshman,No,20,Chemistry,86.7,7.1,83.0,B
+S0148,Business,Freshman,No,20,Intro Programming,78.1,2.0,53.2,F
+S0148,Business,Freshman,No,20,Statistics,87.7,3.2,76.5,C
+S0149,Psychology,Senior,Yes,30,Statistics,82.5,9.0,79.1,C
+S0149,Psychology,Senior,Yes,30,College Algebra,69.6,0.0,66.8,D
+S0149,Psychology,Senior,Yes,30,Intro Programming,69.7,4.4,73.2,C
+S0150,Computer Science,Senior,No,10,Intro Programming,82.1,12.0,86.2,B
+S0150,Computer Science,Senior,No,10,College Algebra,65.5,4.2,70.8,C
+S0150,Computer Science,Senior,No,10,Statistics,100.0,9.8,91.6,A
+S0151,Computer Science,Freshman,Yes,0,College Algebra,88.1,7.2,80.5,B
+S0151,Computer Science,Freshman,Yes,0,Intro Programming,93.7,2.9,75.0,C
+S0151,Computer Science,Freshman,Yes,0,Statistics,73.9,9.7,59.1,F
+S0152,Business,Senior,No,0,Composition,84.9,14.0,86.0,B
+S0152,Business,Senior,No,0,College Algebra,92.6,7.4,70.9,C
+S0152,Business,Senior,No,0,Intro Programming,88.3,6.6,83.0,B
+S0153,Business,Freshman,Yes,20,College Algebra,88.1,8.9,76.6,C
+S0153,Business,Freshman,Yes,20,Composition,70.6,6.7,85.7,B
+S0153,Business,Freshman,Yes,20,Chemistry,69.5,4.3,60.2,D
+S0154,Psychology,Sophomore,No,20,Statistics,78.1,,77.7,C
+S0154,Psychology,Sophomore,No,20,Chemistry,77.1,9.7,65.5,D
+S0154,Psychology,Sophomore,No,20,College Algebra,60.2,9.3,60.4,D
+S0155,Business,Freshman,No,10,Intro Programming,81.5,11.4,95.7,A
+S0155,Business,Freshman,No,10,Statistics,77.6,9.4,73.6,C
+S0155,Business,Freshman,No,10,Chemistry,77.8,9.3,77.3,C
+S0156,Engineering,Freshman,Yes,20,Statistics,60.1,7.7,47.1,F
+S0156,Engineering,Freshman,Yes,20,College Algebra,72.0,7.0,71.1,C
+S0156,Engineering,Freshman,Yes,20,Intro Programming,65.8,7.7,81.1,B
+S0157,Computer Science,Sophomore,No,0,Intro Programming,93.9,13.4,100.0,A
+S0157,Computer Science,Sophomore,No,0,Chemistry,91.0,3.0,89.8,B
+S0157,Computer Science,Sophomore,No,0,Statistics,85.6,10.1,78.7,C
+S0158,Biology,Junior,Yes,20,Composition,75.5,8.9,75.5,C
+S0158,Biology,Junior,Yes,20,College Algebra,78.2,11.6,62.7,D
+S0158,Biology,Junior,Yes,20,Intro Programming,80.2,9.0,80.6,B
+S0159,Computer Science,Freshman,No,10,Chemistry,71.5,4.8,56.7,F
+S0159,Computer Science,Freshman,No,10,Composition,80.1,9.3,77.1,C
+S0159,Computer Science,Freshman,No,10,Intro Programming,84.7,5.6,76.7,C
+S0160,Business,Sophomore,No,10,Chemistry,77.3,2.8,57.1,F
+S0160,Business,Sophomore,No,10,College Algebra,76.6,2.3,61.6,D
+S0160,Business,Sophomore,No,10,Intro Programming,89.1,6.3,73.7,C
+S0161,Business,Freshman,No,10,Chemistry,67.4,10.3,72.0,C
+S0161,Business,Freshman,No,10,Statistics,71.3,6.8,59.2,F
+S0161,Business,Freshman,No,10,Intro Programming,86.4,5.5,70.6,C
+S0162,Computer Science,Junior,Yes,20,Chemistry,73.8,6.7,67.4,D
+S0162,Computer Science,Junior,Yes,20,Statistics,79.6,9.1,69.9,D
+S0162,Computer Science,Junior,Yes,20,Intro Programming,74.0,4.8,66.7,D
+S0163,Engineering,Junior,No,20,Intro Programming,87.5,5.2,77.0,C
+S0163,Engineering,Junior,No,20,Chemistry,100.0,5.3,82.0,B
+S0163,Engineering,Junior,No,20,Composition,75.4,9.4,83.5,B
+S0164,Engineering,Senior,Yes,30,Statistics,76.1,6.4,77.0,C
+S0164,Engineering,Senior,Yes,30,Intro Programming,83.6,2.4,59.1,F
+S0164,Engineering,Senior,Yes,30,Composition,90.9,3.5,86.3,B
+S0165,Psychology,Sophomore,No,30,Intro Programming,69.6,3.4,64.9,D
+S0165,Psychology,Sophomore,No,30,Statistics,57.9,7.5,65.2,D
+S0165,Psychology,Sophomore,No,30,Composition,88.1,6.9,93.2,A
+S0166,Business,Freshman,No,0,Chemistry,74.7,4.5,74.0,C
+S0166,Business,Freshman,No,0,Composition,87.2,6.6,61.3,D
+S0166,Business,Freshman,No,0,College Algebra,84.3,9.6,73.2,C
+S0167,Business,Sophomore,Yes,20,Composition,94.6,4.4,85.1,B
+S0167,Business,Sophomore,Yes,20,Intro Programming,86.7,5.4,81.7,B
+S0167,Business,Sophomore,Yes,20,Chemistry,77.6,3.6,60.8,D
+S0168,Engineering,Freshman,No,30,Statistics,63.6,13.7,84.3,B
+S0168,Engineering,Freshman,No,30,Intro Programming,71.7,6.8,84.6,B
+S0168,Engineering,Freshman,No,30,Chemistry,67.9,4.9,61.2,D
+S0169,Business,Sophomore,Yes,10,Composition,78.4,9.1,70.0,C
+S0169,Business,Sophomore,Yes,10,Chemistry,86.3,0.0,82.9,B
+S0169,Business,Sophomore,Yes,10,Statistics,81.4,5.6,76.3,C
+S0170,Biology,Sophomore,Yes,0,Chemistry,80.9,9.7,70.0,C
+S0170,Biology,Sophomore,Yes,0,Intro Programming,74.7,7.6,67.1,D
+S0170,Biology,Sophomore,Yes,0,Composition,79.4,10.3,86.9,B
+S0171,Engineering,Senior,Yes,10,Chemistry,91.0,12.3,87.0,B
+S0171,Engineering,Senior,Yes,10,Composition,69.8,8.2,78.1,C
+S0171,Engineering,Senior,Yes,10,College Algebra,85.5,12.4,94.9,A
+S0172,Engineering,Junior,Yes,10,Statistics,88.3,10.4,83.8,B
+S0172,Engineering,Junior,Yes,10,College Algebra,98.5,6.6,88.5,B
+S0172,Engineering,Junior,Yes,10,Composition,74.4,7.3,82.4,B
+S0173,Psychology,Freshman,No,30,College Algebra,88.3,5.1,83.4,B
+S0173,Psychology,Freshman,No,30,Statistics,58.3,0.0,45.9,F
+S0173,Psychology,Freshman,No,30,Intro Programming,77.4,7.7,62.6,D
+S0174,Engineering,Freshman,Yes,0,Statistics,94.0,10.5,87.3,B
+S0174,Engineering,Freshman,Yes,0,Chemistry,84.0,9.0,68.8,D
+S0174,Engineering,Freshman,Yes,0,Composition,96.4,13.5,81.8,B
+S0175,Business,Sophomore,Yes,10,College Algebra,99.1,9.3,82.9,B
+S0175,Business,Sophomore,Yes,10,Chemistry,92.4,6.0,68.2,D
+S0175,Business,Sophomore,Yes,10,Intro Programming,63.7,4.6,80.1,B
+S0176,Engineering,Junior,Yes,10,Statistics,79.8,4.4,74.8,C
+S0176,Engineering,Junior,Yes,10,Intro Programming,75.1,5.4,77.6,C
+S0176,Engineering,Junior,Yes,10,Composition,85.6,10.5,77.4,C
+S0177,Biology,Freshman,No,10,Composition,60.9,11.1,85.7,B
+S0177,Biology,Freshman,No,10,College Algebra,77.3,4.6,74.8,C
+S0177,Biology,Freshman,No,10,Statistics,64.3,11.2,88.0,B
+S0178,Biology,Freshman,No,30,Intro Programming,74.1,7.6,87.4,B
+S0178,Biology,Freshman,No,30,Composition,66.5,6.2,61.5,D
+S0178,Biology,Freshman,No,30,College Algebra,83.5,5.2,76.9,C
+S0179,Business,Sophomore,Yes,20,Chemistry,73.7,5.0,77.5,C
+S0179,Business,Sophomore,Yes,20,Statistics,81.5,2.7,61.7,D
+S0179,Business,Sophomore,Yes,20,College Algebra,87.6,5.4,78.7,C
+S0180,Psychology,Junior,Yes,20,Statistics,79.3,5.2,57.2,F
+S0180,Psychology,Junior,Yes,20,College Algebra,86.1,9.7,70.9,C
+S0180,Psychology,Junior,Yes,20,Chemistry,73.6,9.9,57.0,F
+S0181,Business,Sophomore,Yes,10,Composition,90.8,6.5,91.9,A
+S0181,Business,Sophomore,Yes,10,College Algebra,68.7,5.7,64.7,D
+S0181,Business,Sophomore,Yes,10,Chemistry,76.0,13.8,77.3,C
+S0182,Computer Science,Senior,Yes,0,Chemistry,78.1,9.1,80.1,B
+S0182,Computer Science,Senior,Yes,0,Statistics,82.7,8.9,69.9,D
+S0182,Computer Science,Senior,Yes,0,Composition,83.5,3.0,65.2,D
+S0183,Psychology,Sophomore,No,30,Chemistry,71.8,4.3,52.1,F
+S0183,Psychology,Sophomore,No,30,Composition,62.0,6.7,79.4,C
+S0183,Psychology,Sophomore,No,30,Intro Programming,77.5,2.2,77.0,C
+S0184,Computer Science,Sophomore,No,30,College Algebra,86.2,5.1,80.6,B
+S0184,Computer Science,Sophomore,No,30,Statistics,89.3,6.9,83.0,B
+S0184,Computer Science,Sophomore,No,30,Intro Programming,86.1,9.3,77.5,C
+S0185,Business,Freshman,Yes,0,Composition,92.9,7.2,99.9,A
+S0185,Business,Freshman,Yes,0,Intro Programming,72.3,4.0,58.0,F
+S0185,Business,Freshman,Yes,0,Chemistry,83.1,9.1,65.9,D
+S0186,Engineering,Sophomore,Yes,0,Statistics,82.9,8.2,64.3,D
+S0186,Engineering,Sophomore,Yes,0,Chemistry,87.6,8.9,85.0,B
+S0186,Engineering,Sophomore,Yes,0,College Algebra,92.5,7.7,87.3,B
+S0187,Engineering,Freshman,No,0,Intro Programming,89.8,9.2,74.6,C
+S0187,Engineering,Freshman,No,0,Statistics,86.2,11.7,91.7,A
+S0187,Engineering,Freshman,No,0,Composition,68.7,6.6,80.0,B
+S0188,Biology,Senior,No,20,Intro Programming,64.5,5.2,75.0,C
+S0188,Biology,Senior,No,20,College Algebra,56.4,3.4,66.6,D
+S0188,Biology,Senior,No,20,Chemistry,70.5,5.5,69.2,D
+S0189,Psychology,Freshman,Yes,20,Intro Programming,88.1,9.7,77.3,C
+S0189,Psychology,Freshman,Yes,20,Statistics,77.7,12.3,68.8,D
+S0189,Psychology,Freshman,Yes,20,Chemistry,69.7,6.0,63.1,D
+S0190,Psychology,Freshman,Yes,20,Composition,75.8,5.1,70.8,C
+S0190,Psychology,Freshman,Yes,20,Statistics,76.6,6.2,74.0,C
+S0190,Psychology,Freshman,Yes,20,Intro Programming,74.2,10.8,73.8,C
+S0191,Computer Science,Junior,No,10,College Algebra,97.1,11.1,79.7,C
+S0191,Computer Science,Junior,No,10,Statistics,89.1,5.9,74.7,C
+S0191,Computer Science,Junior,No,10,Composition,92.0,6.3,83.5,B
+S0192,Computer Science,Freshman,No,20,Intro Programming,91.6,12.5,96.1,A
+S0192,Computer Science,Freshman,No,20,Statistics,67.0,10.5,72.2,C
+S0192,Computer Science,Freshman,No,20,College Algebra,71.8,3.3,73.2,C
+S0193,Computer Science,Freshman,No,20,Intro Programming,90.4,5.9,75.0,C
+S0193,Computer Science,Freshman,No,20,College Algebra,82.0,8.1,72.3,C
+S0193,Computer Science,Freshman,No,20,Chemistry,69.7,5.4,73.1,C
+S0194,Computer Science,Junior,No,20,Composition,74.6,,69.0,D
+S0194,Computer Science,Junior,No,20,Intro Programming,96.1,2.3,74.2,C
+S0194,Computer Science,Junior,No,20,College Algebra,78.5,7.2,86.4,B
+S0195,Psychology,Freshman,No,10,Composition,81.5,10.7,99.6,A
+S0195,Psychology,Freshman,No,10,Chemistry,77.8,6.4,68.3,D
+S0195,Psychology,Freshman,No,10,College Algebra,67.6,8.8,68.6,D
+S0196,Psychology,Sophomore,No,30,College Algebra,76.8,5.2,69.1,D
+S0196,Psychology,Sophomore,No,30,Chemistry,74.1,4.6,76.5,C
+S0196,Psychology,Sophomore,No,30,Composition,81.2,7.8,85.7,B
+S0197,Computer Science,Freshman,Yes,30,Composition,70.6,8.3,79.4,C
+S0197,Computer Science,Freshman,Yes,30,Chemistry,75.2,4.3,74.8,C
+S0197,Computer Science,Freshman,Yes,30,College Algebra,74.3,5.0,72.1,C
+S0198,Biology,Freshman,Yes,0,Chemistry,87.2,8.7,73.7,C
+S0198,Biology,Freshman,Yes,0,Intro Programming,85.6,4.3,76.4,C
+S0198,Biology,Freshman,Yes,0,College Algebra,85.9,5.5,76.2,C
+S0199,Computer Science,Freshman,Yes,0,Chemistry,84.8,3.7,85.7,B
+S0199,Computer Science,Freshman,Yes,0,College Algebra,95.9,7.2,81.0,B
+S0199,Computer Science,Freshman,Yes,0,Statistics,75.6,5.6,60.6,D
+S0200,Business,Freshman,Yes,30,Statistics,63.6,8.6,80.0,C
+S0200,Business,Freshman,Yes,30,Chemistry,62.2,0.7,46.1,F
+S0200,Business,Freshman,Yes,30,College Algebra,71.7,1.6,76.8,C
+S0201,Business,Freshman,Yes,10,Chemistry,78.7,1.0,58.6,F
+S0201,Business,Freshman,Yes,10,Composition,87.8,9.0,82.6,B
+S0201,Business,Freshman,Yes,10,Statistics,87.9,11.0,76.8,C
+S0202,Computer Science,Freshman,No,30,Statistics,71.0,5.3,70.5,C
+S0202,Computer Science,Freshman,No,30,Composition,76.7,0.1,65.6,D
+S0202,Computer Science,Freshman,No,30,Intro Programming,61.9,6.8,72.6,C
+S0203,Psychology,Senior,Yes,20,Intro Programming,84.1,10.1,88.1,B
+S0203,Psychology,Senior,Yes,20,College Algebra,77.0,12.5,82.9,B
+S0203,Psychology,Senior,Yes,20,Chemistry,62.6,4.7,71.9,C
+S0204,Biology,Sophomore,Yes,0,College Algebra,78.9,8.1,86.7,B
+S0204,Biology,Sophomore,Yes,0,Chemistry,93.3,10.3,85.5,B
+S0204,Biology,Sophomore,Yes,0,Statistics,83.0,10.8,73.7,C
+S0205,Computer Science,Junior,Yes,10,Composition,85.0,9.3,79.9,C
+S0205,Computer Science,Junior,Yes,10,Statistics,98.3,8.4,89.8,B
+S0205,Computer Science,Junior,Yes,10,Chemistry,80.7,4.9,67.9,D
+S0206,Computer Science,Senior,Yes,20,Composition,74.4,4.4,58.0,F
+S0206,Computer Science,Senior,Yes,20,College Algebra,90.5,7.9,80.6,B
+S0206,Computer Science,Senior,Yes,20,Intro Programming,79.4,13.5,87.7,B
+S0207,Engineering,Senior,Yes,10,Intro Programming,79.3,5.5,72.7,C
+S0207,Engineering,Senior,Yes,10,College Algebra,80.6,4.8,68.0,D
+S0207,Engineering,Senior,Yes,10,Chemistry,88.5,6.8,79.0,C
+S0208,Psychology,Freshman,Yes,0,Statistics,77.6,7.7,71.0,C
+S0208,Psychology,Freshman,Yes,0,College Algebra,89.2,3.7,69.5,D
+S0208,Psychology,Freshman,Yes,0,Intro Programming,94.8,18.0,84.6,B
+S0209,Biology,Sophomore,No,10,Statistics,73.0,2.7,52.4,F
+S0209,Biology,Sophomore,No,10,College Algebra,74.2,4.3,67.3,D
+S0209,Biology,Sophomore,No,10,Chemistry,79.1,,75.4,C
+S0210,Biology,Sophomore,No,0,Intro Programming,93.8,12.4,96.3,A
+S0210,Biology,Sophomore,No,0,Statistics,93.2,10.4,76.5,C
+S0210,Biology,Sophomore,No,0,Composition,79.1,3.5,66.6,D
+S0211,Engineering,Junior,No,10,Intro Programming,81.5,6.1,74.1,C
+S0211,Engineering,Junior,No,10,Statistics,72.9,6.9,74.1,C
+S0211,Engineering,Junior,No,10,Chemistry,85.0,7.6,71.9,C
+S0212,Biology,Freshman,No,30,Statistics,76.6,9.6,74.7,C
+S0212,Biology,Freshman,No,30,Chemistry,84.6,10.8,77.0,C
+S0212,Biology,Freshman,No,30,Composition,70.9,6.1,60.6,D
+S0213,Business,Sophomore,Yes,0,Intro Programming,93.4,10.6,78.7,C
+S0213,Business,Sophomore,Yes,0,Composition,89.3,10.6,91.2,A
+S0213,Business,Sophomore,Yes,0,Chemistry,84.2,7.3,65.4,D
+S0214,Business,Junior,Yes,20,Chemistry,93.7,4.2,72.1,C
+S0214,Business,Junior,Yes,20,Composition,82.3,4.0,80.0,B
+S0214,Business,Junior,Yes,20,Statistics,64.7,5.3,70.4,C
+S0215,Biology,Freshman,No,20,Intro Programming,91.5,4.8,69.0,D
+S0215,Biology,Freshman,No,20,Composition,73.1,8.7,69.4,D
+S0215,Biology,Freshman,No,20,Statistics,75.7,6.8,64.7,D
+S0216,Computer Science,Junior,No,30,Chemistry,76.6,5.3,74.4,C
+S0216,Computer Science,Junior,No,30,Intro Programming,88.6,2.9,64.4,D
+S0216,Computer Science,Junior,No,30,Statistics,81.7,6.6,89.4,B
+S0217,Engineering,Freshman,No,0,Intro Programming,80.2,,82.8,B
+S0217,Engineering,Freshman,No,0,Composition,86.2,11.4,80.8,B
+S0217,Engineering,Freshman,No,0,Statistics,86.9,9.5,75.5,C
+S0218,Computer Science,Sophomore,No,10,Statistics,85.1,5.5,78.6,C
+S0218,Computer Science,Sophomore,No,10,Chemistry,95.3,7.0,81.1,B
+S0218,Computer Science,Sophomore,No,10,Composition,74.8,10.5,79.7,C
+S0219,Engineering,Freshman,Yes,0,College Algebra,85.4,6.1,70.1,C
+S0219,Engineering,Freshman,Yes,0,Composition,86.1,6.6,74.0,C
+S0219,Engineering,Freshman,Yes,0,Statistics,89.9,3.6,76.2,C
+S0220,Computer Science,Sophomore,No,20,Composition,70.6,6.1,74.8,C
+S0220,Computer Science,Sophomore,No,20,Chemistry,86.8,7.0,72.6,C
+S0220,Computer Science,Sophomore,No,20,Statistics,74.3,6.6,62.4,D
+S0221,Computer Science,Sophomore,Yes,20,Composition,74.6,5.8,68.8,D
+S0221,Computer Science,Sophomore,Yes,20,Intro Programming,67.6,11.9,68.5,D
+S0221,Computer Science,Sophomore,Yes,20,Chemistry,92.7,5.3,74.8,C
+S0222,Computer Science,Sophomore,Yes,0,College Algebra,78.1,5.9,65.7,D
+S0222,Computer Science,Sophomore,Yes,0,Chemistry,76.5,11.1,72.3,C
+S0222,Computer Science,Sophomore,Yes,0,Intro Programming,100.0,8.3,90.3,A
+S0223,Engineering,Senior,No,30,Statistics,86.1,6.0,67.4,D
+S0223,Engineering,Senior,No,30,Composition,78.9,6.9,75.1,C
+S0223,Engineering,Senior,No,30,College Algebra,74.9,8.3,95.4,A
+S0224,Computer Science,Freshman,Yes,30,Composition,77.8,6.3,67.3,D
+S0224,Computer Science,Freshman,Yes,30,College Algebra,70.4,3.8,65.6,D
+S0224,Computer Science,Freshman,Yes,30,Chemistry,61.6,7.1,66.9,D
+S0225,Biology,Junior,Yes,0,College Algebra,100.0,10.1,88.5,B
+S0225,Biology,Junior,Yes,0,Statistics,69.1,11.3,77.6,C
+S0225,Biology,Junior,Yes,0,Composition,69.9,4.4,61.6,D
+S0226,Psychology,Sophomore,No,30,Intro Programming,69.7,8.0,67.4,D
+S0226,Psychology,Sophomore,No,30,Composition,71.7,2.3,76.9,C
+S0226,Psychology,Sophomore,No,30,Statistics,63.6,9.1,78.1,C
+S0227,Business,Junior,Yes,10,Composition,89.9,7.7,79.2,C
+S0227,Business,Junior,Yes,10,College Algebra,63.7,10.2,68.1,D
+S0227,Business,Junior,Yes,10,Intro Programming,82.5,5.2,69.1,D
+S0228,Engineering,Freshman,Yes,30,College Algebra,75.3,4.4,66.9,D
+S0228,Engineering,Freshman,Yes,30,Statistics,64.5,4.4,60.4,D
+S0228,Engineering,Freshman,Yes,30,Composition,77.7,9.3,90.9,A
+S0229,Business,Freshman,No,0,Composition,77.8,10.8,82.1,B
+S0229,Business,Freshman,No,0,Chemistry,61.4,9.3,73.7,C
+S0229,Business,Freshman,No,0,College Algebra,86.6,,82.1,B
+S0230,Computer Science,Junior,No,10,Statistics,87.9,9.1,72.4,C
+S0230,Computer Science,Junior,No,10,Chemistry,74.1,6.9,67.0,D
+S0230,Computer Science,Junior,No,10,Intro Programming,88.9,5.1,74.4,C
+S0231,Business,Freshman,No,30,Composition,83.0,3.1,78.8,C
+S0231,Business,Freshman,No,30,Statistics,74.0,8.2,72.2,C
+S0231,Business,Freshman,No,30,Chemistry,81.9,7.6,71.5,C
+S0232,Engineering,Sophomore,No,30,Chemistry,68.1,3.0,63.5,D
+S0232,Engineering,Sophomore,No,30,Intro Programming,86.0,0.2,77.1,C
+S0232,Engineering,Sophomore,No,30,Composition,81.8,7.1,74.6,C
+S0233,Engineering,Freshman,Yes,0,Composition,77.1,8.0,89.5,B
+S0233,Engineering,Freshman,Yes,0,Chemistry,75.1,5.6,72.2,C
+S0233,Engineering,Freshman,Yes,0,Statistics,91.5,8.5,67.9,D
+S0234,Computer Science,Junior,Yes,10,Statistics,76.2,2.7,66.3,D
+S0234,Computer Science,Junior,Yes,10,Intro Programming,81.7,3.9,69.3,D
+S0234,Computer Science,Junior,Yes,10,Composition,76.2,11.2,84.0,B
+S0235,Business,Sophomore,Yes,20,Composition,80.7,3.7,80.0,C
+S0235,Business,Sophomore,Yes,20,College Algebra,76.0,5.3,90.4,A
+S0235,Business,Sophomore,Yes,20,Intro Programming,75.3,8.3,95.0,A
+S0236,Psychology,Freshman,No,30,Chemistry,71.0,6.3,67.4,D
+S0236,Psychology,Freshman,No,30,Composition,73.7,9.9,73.8,C
+S0236,Psychology,Freshman,No,30,Intro Programming,65.0,6.5,87.2,B
+S0237,Business,Sophomore,No,0,College Algebra,77.5,7.6,63.3,D
+S0237,Business,Sophomore,No,0,Composition,66.2,6.9,73.7,C
+S0237,Business,Sophomore,No,0,Statistics,78.2,11.8,77.0,C
+S0238,Engineering,Sophomore,Yes,20,Intro Programming,88.0,5.5,83.2,B
+S0238,Engineering,Sophomore,Yes,20,Statistics,80.4,11.9,81.6,B
+S0238,Engineering,Sophomore,Yes,20,Chemistry,81.3,12.2,69.6,D
+S0239,Computer Science,Freshman,Yes,10,Intro Programming,84.5,7.5,76.4,C
+S0239,Computer Science,Freshman,Yes,10,College Algebra,62.9,11.7,75.1,C
+S0239,Computer Science,Freshman,Yes,10,Statistics,82.5,4.1,76.5,C
+S0240,Biology,Junior,Yes,0,Statistics,83.4,4.6,83.5,B
+S0240,Biology,Junior,Yes,0,Chemistry,83.8,9.0,76.6,C
+S0240,Biology,Junior,Yes,0,Composition,75.6,10.7,75.3,C
+S0241,Engineering,Senior,Yes,20,Statistics,75.7,3.2,63.1,D
+S0241,Engineering,Senior,Yes,20,Composition,94.4,8.2,87.4,B
+S0241,Engineering,Senior,Yes,20,Intro Programming,80.4,5.8,72.5,C
+S0242,Computer Science,Freshman,Yes,0,Intro Programming,95.4,11.1,95.5,A
+S0242,Computer Science,Freshman,Yes,0,Statistics,87.5,6.8,70.9,C
+S0242,Computer Science,Freshman,Yes,0,Chemistry,91.0,11.7,81.5,B
+S0243,Biology,Freshman,Yes,10,Composition,91.6,5.9,76.8,C
+S0243,Biology,Freshman,Yes,10,Chemistry,79.1,7.4,65.3,D
+S0243,Biology,Freshman,Yes,10,Intro Programming,74.8,6.9,83.7,B
+S0244,Biology,Sophomore,Yes,30,Statistics,78.6,7.8,77.4,C
+S0244,Biology,Sophomore,Yes,30,Intro Programming,71.1,4.6,81.2,B
+S0244,Biology,Sophomore,Yes,30,Chemistry,83.6,6.0,74.3,C
+S0245,Engineering,Senior,No,0,Statistics,94.5,15.7,94.8,A
+S0245,Engineering,Senior,No,0,Chemistry,87.1,10.9,70.6,C
+S0245,Engineering,Senior,No,0,College Algebra,97.4,6.2,82.1,B
+S0246,Business,Junior,Yes,10,College Algebra,75.6,8.1,65.7,D
+S0246,Business,Junior,Yes,10,Intro Programming,78.7,11.1,75.6,C
+S0246,Business,Junior,Yes,10,Statistics,97.6,,56.8,F
+S0247,Computer Science,Senior,No,20,Composition,92.8,9.3,80.0,B
+S0247,Computer Science,Senior,No,20,Statistics,93.5,4.3,77.7,C
+S0247,Computer Science,Senior,No,20,Chemistry,77.4,4.8,66.6,D
+S0248,Biology,Freshman,Yes,20,Composition,79.3,9.4,77.2,C
+S0248,Biology,Freshman,Yes,20,College Algebra,85.6,9.1,79.8,C
+S0248,Biology,Freshman,Yes,20,Chemistry,87.8,,84.0,B
+S0249,Psychology,Junior,No,0,Intro Programming,87.3,3.6,86.7,B
+S0249,Psychology,Junior,No,0,Chemistry,76.8,14.7,68.3,D
+S0249,Psychology,Junior,No,0,College Algebra,86.2,12.1,90.2,A
+S0250,Computer Science,Freshman,No,10,Chemistry,80.0,6.8,77.9,C
+S0250,Computer Science,Freshman,No,10,Intro Programming,95.6,9.7,76.6,C
+S0250,Computer Science,Freshman,No,10,Composition,83.0,8.4,79.7,C
+S0251,Engineering,Sophomore,No,0,College Algebra,88.7,10.6,81.3,B
+S0251,Engineering,Sophomore,No,0,Chemistry,88.2,8.4,84.4,B
+S0251,Engineering,Sophomore,No,0,Statistics,75.8,4.1,61.0,D
+S0252,Engineering,Junior,No,20,Statistics,68.3,8.7,62.6,D
+S0252,Engineering,Junior,No,20,Intro Programming,76.4,1.4,68.1,D
+S0252,Engineering,Junior,No,20,Chemistry,66.9,9.8,80.3,B
+S0253,Engineering,Senior,No,20,College Algebra,68.9,5.2,73.2,C
+S0253,Engineering,Senior,No,20,Statistics,74.2,10.6,86.8,B
+S0253,Engineering,Senior,No,20,Composition,63.0,10.9,82.4,B
+S0254,Computer Science,Junior,Yes,20,Statistics,74.0,4.2,71.8,C
+S0254,Computer Science,Junior,Yes,20,Chemistry,61.8,8.6,69.6,D
+S0254,Computer Science,Junior,Yes,20,Intro Programming,73.0,2.4,46.0,F
+S0255,Psychology,Sophomore,No,20,College Algebra,81.9,2.5,77.0,C
+S0255,Psychology,Sophomore,No,20,Statistics,81.1,0.0,54.4,F
+S0255,Psychology,Sophomore,No,20,Intro Programming,100.0,8.7,97.8,A
+S0256,Biology,Sophomore,Yes,20,College Algebra,66.6,7.7,60.4,D
+S0256,Biology,Sophomore,Yes,20,Intro Programming,68.9,7.6,83.5,B
+S0256,Biology,Sophomore,Yes,20,Composition,88.9,7.0,84.3,B
+S0257,Biology,Sophomore,No,10,Statistics,81.5,6.5,71.4,C
+S0257,Biology,Sophomore,No,10,Intro Programming,83.5,0.6,73.8,C
+S0257,Biology,Sophomore,No,10,College Algebra,92.5,3.3,66.6,D
+S0258,Business,Senior,Yes,0,Chemistry,96.9,6.6,95.9,A
+S0258,Business,Senior,Yes,0,Composition,87.5,3.3,66.2,D
+S0258,Business,Senior,Yes,0,College Algebra,84.6,2.8,61.3,D
+S0259,Computer Science,Senior,No,30,Composition,69.7,4.8,68.7,D
+S0259,Computer Science,Senior,No,30,Intro Programming,64.9,6.6,68.4,D
+S0259,Computer Science,Senior,No,30,Statistics,83.4,1.3,62.1,D
+S0260,Psychology,Senior,No,10,Statistics,74.6,6.6,70.8,C
+S0260,Psychology,Senior,No,10,Composition,82.3,6.1,89.0,B
+S0260,Psychology,Senior,No,10,College Algebra,77.5,9.0,73.5,C
+S0261,Business,Freshman,No,30,Composition,75.4,8.8,69.3,D
+S0261,Business,Freshman,No,30,College Algebra,67.0,2.9,60.5,D
+S0261,Business,Freshman,No,30,Intro Programming,67.4,1.9,62.1,D
+S0262,Computer Science,Junior,No,30,Statistics,68.6,4.9,66.2,D
+S0262,Computer Science,Junior,No,30,College Algebra,67.9,12.4,90.4,A
+S0262,Computer Science,Junior,No,30,Intro Programming,72.3,2.9,63.7,D
+S0263,Engineering,Junior,Yes,30,Statistics,88.8,9.4,75.2,C
+S0263,Engineering,Junior,Yes,30,Composition,77.1,2.7,72.9,C
+S0263,Engineering,Junior,Yes,30,College Algebra,79.8,0.0,63.8,D
+S0264,Psychology,Freshman,Yes,20,Statistics,73.3,4.1,62.5,D
+S0264,Psychology,Freshman,Yes,20,Chemistry,70.0,6.4,58.2,F
+S0264,Psychology,Freshman,Yes,20,Intro Programming,73.4,8.3,82.7,B
+S0265,Psychology,Freshman,No,20,College Algebra,78.7,8.8,85.6,B
+S0265,Psychology,Freshman,No,20,Chemistry,70.7,4.0,73.9,C
+S0265,Psychology,Freshman,No,20,Composition,72.3,11.6,85.5,B
+S0266,Engineering,Junior,No,0,Statistics,77.4,5.7,65.0,D
+S0266,Engineering,Junior,No,0,Intro Programming,80.3,8.5,81.3,B
+S0266,Engineering,Junior,No,0,Composition,91.7,14.3,96.6,A
+S0267,Psychology,Freshman,Yes,10,Chemistry,83.3,6.3,60.6,D
+S0267,Psychology,Freshman,Yes,10,College Algebra,88.2,8.8,90.7,A
+S0267,Psychology,Freshman,Yes,10,Composition,74.3,,78.6,C
+S0268,Engineering,Sophomore,Yes,30,Statistics,72.2,6.6,82.2,B
+S0268,Engineering,Sophomore,Yes,30,College Algebra,79.7,3.5,69.6,D
+S0268,Engineering,Sophomore,Yes,30,Chemistry,76.9,11.4,65.1,D
+S0269,Computer Science,Sophomore,No,20,College Algebra,77.1,7.7,82.0,B
+S0269,Computer Science,Sophomore,No,20,Chemistry,69.4,4.7,68.7,D
+S0269,Computer Science,Sophomore,No,20,Intro Programming,79.7,5.2,58.5,F
+S0270,Psychology,Junior,No,20,Statistics,85.2,8.7,66.7,D
+S0270,Psychology,Junior,No,20,Intro Programming,87.4,9.0,77.1,C
+S0270,Psychology,Junior,No,20,Chemistry,66.9,8.6,68.6,D
+S0271,Computer Science,Freshman,Yes,0,Intro Programming,88.2,6.9,82.5,B
+S0271,Computer Science,Freshman,Yes,0,Composition,93.9,3.9,66.7,D
+S0271,Computer Science,Freshman,Yes,0,Chemistry,86.3,7.3,67.9,D
+S0272,Computer Science,Freshman,No,0,Statistics,73.2,6.3,70.5,C
+S0272,Computer Science,Freshman,No,0,Chemistry,89.7,6.0,80.0,C
+S0272,Computer Science,Freshman,No,0,Intro Programming,89.5,5.7,92.5,A
+S0273,Computer Science,Junior,Yes,20,Composition,74.0,7.4,64.6,D
+S0273,Computer Science,Junior,Yes,20,Intro Programming,82.5,6.7,84.1,B
+S0273,Computer Science,Junior,Yes,20,Statistics,87.9,7.2,78.2,C
+S0274,Psychology,Sophomore,No,30,Composition,71.4,4.7,62.9,D
+S0274,Psychology,Sophomore,No,30,College Algebra,73.7,7.2,72.7,C
+S0274,Psychology,Sophomore,No,30,Intro Programming,80.8,6.9,67.6,D
+S0275,Computer Science,Freshman,No,30,College Algebra,64.8,5.0,72.1,C
+S0275,Computer Science,Freshman,No,30,Chemistry,77.9,5.0,79.5,C
+S0275,Computer Science,Freshman,No,30,Composition,79.2,3.6,91.4,A
+S0276,Psychology,Sophomore,Yes,10,Chemistry,86.7,8.3,82.0,B
+S0276,Psychology,Sophomore,Yes,10,College Algebra,84.2,13.7,85.6,B
+S0276,Psychology,Sophomore,Yes,10,Statistics,79.1,6.4,68.1,D
+S0277,Engineering,Junior,Yes,0,College Algebra,88.8,7.0,83.7,B
+S0277,Engineering,Junior,Yes,0,Statistics,87.1,10.2,75.0,C
+S0277,Engineering,Junior,Yes,0,Chemistry,82.0,14.2,87.4,B
+S0278,Business,Freshman,Yes,20,Composition,63.3,4.1,67.0,D
+S0278,Business,Freshman,Yes,20,College Algebra,74.6,6.7,65.5,D
+S0278,Business,Freshman,Yes,20,Chemistry,71.6,9.2,69.1,D
+S0279,Business,Junior,Yes,10,Intro Programming,86.5,8.8,70.6,C
+S0279,Business,Junior,Yes,10,Chemistry,100.0,10.4,84.5,B
+S0279,Business,Junior,Yes,10,Composition,84.2,7.7,88.8,B
+S0280,Biology,Sophomore,Yes,30,Chemistry,82.0,0.0,55.9,F
+S0280,Biology,Sophomore,Yes,30,Composition,68.0,6.9,80.5,B
+S0280,Biology,Sophomore,Yes,30,College Algebra,78.1,5.1,75.5,C
+S0281,Business,Freshman,No,0,Chemistry,100.0,8.0,86.2,B
+S0281,Business,Freshman,No,0,College Algebra,89.3,9.0,87.2,B
+S0281,Business,Freshman,No,0,Composition,78.6,9.3,65.7,D
+S0282,Computer Science,Junior,Yes,10,Chemistry,62.2,8.0,63.4,D
+S0282,Computer Science,Junior,Yes,10,Composition,82.0,12.7,88.8,B
+S0282,Computer Science,Junior,Yes,10,College Algebra,79.2,2.5,59.6,F
+S0283,Engineering,Freshman,No,0,Intro Programming,83.4,11.9,77.6,C
+S0283,Engineering,Freshman,No,0,Chemistry,82.9,9.2,60.3,D
+S0283,Engineering,Freshman,No,0,Composition,86.2,8.5,66.8,D
+S0284,Engineering,Sophomore,Yes,10,Composition,98.1,7.4,97.6,A
+S0284,Engineering,Sophomore,Yes,10,College Algebra,66.5,8.1,77.7,C
+S0284,Engineering,Sophomore,Yes,10,Intro Programming,78.8,3.3,71.9,C
+S0285,Engineering,Senior,Yes,0,Composition,90.7,10.1,74.7,C
+S0285,Engineering,Senior,Yes,0,College Algebra,100.0,3.9,80.5,B
+S0285,Engineering,Senior,Yes,0,Intro Programming,72.9,11.1,73.4,C
+S0286,Psychology,Freshman,Yes,20,Chemistry,78.3,10.7,82.8,B
+S0286,Psychology,Freshman,Yes,20,Intro Programming,66.2,1.2,58.7,F
+S0286,Psychology,Freshman,Yes,20,Statistics,69.5,9.4,76.9,C
+S0287,Psychology,Senior,Yes,0,Statistics,94.5,7.2,89.7,B
+S0287,Psychology,Senior,Yes,0,Composition,63.2,4.0,60.1,D
+S0287,Psychology,Senior,Yes,0,Chemistry,78.9,6.8,76.0,C
+S0288,Business,Freshman,Yes,10,College Algebra,89.7,9.7,71.7,C
+S0288,Business,Freshman,Yes,10,Chemistry,84.2,8.5,81.6,B
+S0288,Business,Freshman,Yes,10,Intro Programming,79.0,10.9,87.5,B
+S0289,Biology,Freshman,Yes,10,Statistics,85.3,8.7,77.2,C
+S0289,Biology,Freshman,Yes,10,Chemistry,84.0,5.2,82.7,B
+S0289,Biology,Freshman,Yes,10,Intro Programming,98.6,9.7,81.4,B
+S0290,Psychology,Freshman,No,0,College Algebra,89.2,9.6,99.2,A
+S0290,Psychology,Freshman,No,0,Intro Programming,86.0,7.8,83.6,B
+S0290,Psychology,Freshman,No,0,Chemistry,81.0,9.6,93.8,A
+S0291,Engineering,Sophomore,Yes,10,Statistics,89.7,8.1,86.3,B
+S0291,Engineering,Sophomore,Yes,10,Intro Programming,63.4,9.7,85.6,B
+S0291,Engineering,Sophomore,Yes,10,Chemistry,78.6,6.0,65.8,D
+S0292,Engineering,Freshman,Yes,20,Composition,77.5,4.4,68.0,D
+S0292,Engineering,Freshman,Yes,20,College Algebra,70.1,7.9,81.0,B
+S0292,Engineering,Freshman,Yes,20,Intro Programming,75.7,14.4,78.8,C
+S0293,Computer Science,Freshman,Yes,0,Statistics,93.2,2.9,85.2,B
+S0293,Computer Science,Freshman,Yes,0,Composition,71.0,9.6,69.9,D
+S0293,Computer Science,Freshman,Yes,0,Chemistry,89.3,8.4,88.5,B
+S0294,Biology,Senior,No,20,Statistics,84.0,10.1,68.2,D
+S0294,Biology,Senior,No,20,College Algebra,84.4,4.4,71.7,C
+S0294,Biology,Senior,No,20,Chemistry,78.5,3.2,54.6,F
+S0295,Engineering,Sophomore,No,0,Statistics,76.0,11.8,76.9,C
+S0295,Engineering,Sophomore,No,0,Composition,89.7,6.3,81.1,B
+S0295,Engineering,Sophomore,No,0,Chemistry,87.8,8.0,82.6,B
+S0296,Biology,Freshman,Yes,20,College Algebra,73.0,7.4,81.1,B
+S0296,Biology,Freshman,Yes,20,Intro Programming,90.4,7.3,88.4,B
+S0296,Biology,Freshman,Yes,20,Composition,75.2,7.1,77.7,C
+S0297,Psychology,Sophomore,Yes,20,Intro Programming,68.6,6.8,58.0,F
+S0297,Psychology,Sophomore,Yes,20,Chemistry,81.3,10.9,71.5,C
+S0297,Psychology,Sophomore,Yes,20,College Algebra,71.2,6.4,70.1,C
+S0298,Psychology,Freshman,No,30,Chemistry,87.1,1.1,70.1,C
+S0298,Psychology,Freshman,No,30,College Algebra,62.2,5.0,66.0,D
+S0298,Psychology,Freshman,No,30,Composition,78.7,8.3,75.6,C
+S0299,Business,Junior,No,10,Statistics,76.9,7.6,61.4,D
+S0299,Business,Junior,No,10,College Algebra,80.1,1.7,88.2,B
+S0299,Business,Junior,No,10,Chemistry,92.5,2.0,76.4,C
+S0300,Psychology,Freshman,Yes,30,College Algebra,90.6,6.8,90.6,A
+S0300,Psychology,Freshman,Yes,30,Chemistry,81.7,4.4,58.4,F
+S0300,Psychology,Freshman,Yes,30,Statistics,68.9,5.1,62.7,D
+S0301,Engineering,Sophomore,Yes,20,Intro Programming,78.9,5.3,77.8,C
+S0301,Engineering,Sophomore,Yes,20,Chemistry,83.7,5.7,72.8,C
+S0301,Engineering,Sophomore,Yes,20,Statistics,88.3,7.2,76.4,C
+S0302,Engineering,Senior,Yes,10,Intro Programming,83.9,1.8,77.6,C
+S0302,Engineering,Senior,Yes,10,Chemistry,78.9,5.5,78.4,C
+S0302,Engineering,Senior,Yes,10,Composition,89.6,6.2,67.6,D
+S0303,Biology,Junior,Yes,20,Chemistry,86.4,1.2,64.3,D
+S0303,Biology,Junior,Yes,20,Intro Programming,80.2,5.6,71.7,C
+S0303,Biology,Junior,Yes,20,Statistics,100.0,10.7,100.0,A
+S0304,Biology,Junior,No,20,Statistics,71.8,1.2,54.7,F
+S0304,Biology,Junior,No,20,College Algebra,84.1,8.6,88.8,B
+S0304,Biology,Junior,No,20,Chemistry,73.7,5.9,80.6,B
+S0305,Psychology,Sophomore,No,20,Composition,78.3,6.9,69.3,D
+S0305,Psychology,Sophomore,No,20,Intro Programming,84.2,8.5,72.7,C
+S0305,Psychology,Sophomore,No,20,Chemistry,68.5,,68.4,D
+S0306,Biology,Senior,Yes,20,Chemistry,73.9,7.7,75.8,C
+S0306,Biology,Senior,Yes,20,Intro Programming,59.9,5.3,75.9,C
+S0306,Biology,Senior,Yes,20,Statistics,86.9,12.1,68.7,D
+S0307,Engineering,Senior,Yes,0,College Algebra,86.2,11.6,69.6,D
+S0307,Engineering,Senior,Yes,0,Chemistry,84.4,2.7,75.2,C
+S0307,Engineering,Senior,Yes,0,Composition,71.2,10.7,88.4,B
+S0308,Psychology,Sophomore,No,0,College Algebra,90.6,8.0,81.1,B
+S0308,Psychology,Sophomore,No,0,Chemistry,83.0,6.0,71.3,C
+S0308,Psychology,Sophomore,No,0,Composition,69.7,7.6,93.6,A
+S0309,Psychology,Junior,Yes,30,College Algebra,56.0,7.5,76.9,C
+S0309,Psychology,Junior,Yes,30,Statistics,73.9,4.4,64.6,D
+S0309,Psychology,Junior,Yes,30,Chemistry,81.8,7.0,74.3,C
+S0310,Computer Science,Freshman,No,10,College Algebra,60.5,8.4,74.5,C
+S0310,Computer Science,Freshman,No,10,Statistics,92.5,8.5,83.8,B
+S0310,Computer Science,Freshman,No,10,Composition,80.4,7.1,69.6,D
+S0311,Engineering,Freshman,No,20,Chemistry,82.5,5.1,77.5,C
+S0311,Engineering,Freshman,No,20,Intro Programming,79.2,9.6,61.4,D
+S0311,Engineering,Freshman,No,20,College Algebra,83.8,11.7,77.7,C
+S0312,Biology,Junior,Yes,20,Chemistry,76.7,9.1,69.4,D
+S0312,Biology,Junior,Yes,20,Intro Programming,67.3,7.5,70.9,C
+S0312,Biology,Junior,Yes,20,College Algebra,73.2,6.7,82.8,B
+S0313,Biology,Freshman,Yes,20,Intro Programming,68.8,7.9,67.5,D
+S0313,Biology,Freshman,Yes,20,Composition,84.7,0.0,58.0,F
+S0313,Biology,Freshman,Yes,20,College Algebra,71.6,8.9,75.2,C
+S0314,Computer Science,Junior,Yes,20,Intro Programming,87.3,4.3,71.2,C
+S0314,Computer Science,Junior,Yes,20,Chemistry,55.0,11.6,62.8,D
+S0314,Computer Science,Junior,Yes,20,Composition,84.4,9.6,77.7,C
+S0315,Biology,Junior,Yes,20,Composition,87.8,2.7,74.0,C
+S0315,Biology,Junior,Yes,20,College Algebra,71.5,5.0,77.2,C
+S0315,Biology,Junior,Yes,20,Intro Programming,82.8,6.1,60.7,D
+S0316,Psychology,Junior,Yes,20,Intro Programming,81.2,14.0,71.6,C
+S0316,Psychology,Junior,Yes,20,Statistics,91.7,4.6,78.4,C
+S0316,Psychology,Junior,Yes,20,Chemistry,81.5,4.1,79.7,C
+S0317,Computer Science,Sophomore,No,0,Intro Programming,77.2,10.2,75.5,C
+S0317,Computer Science,Sophomore,No,0,College Algebra,97.8,9.0,76.4,C
+S0317,Computer Science,Sophomore,No,0,Composition,79.0,6.9,78.6,C
+S0318,Engineering,Freshman,Yes,0,Statistics,96.7,5.4,77.2,C
+S0318,Engineering,Freshman,Yes,0,Chemistry,79.5,11.6,82.9,B
+S0318,Engineering,Freshman,Yes,0,Intro Programming,76.7,5.0,73.2,C
+S0319,Computer Science,Senior,No,20,Intro Programming,75.8,4.8,90.6,A
+S0319,Computer Science,Senior,No,20,Chemistry,64.5,7.0,72.4,C
+S0319,Computer Science,Senior,No,20,College Algebra,60.9,5.0,62.1,D
+S0320,Computer Science,Freshman,Yes,10,Intro Programming,73.5,5.6,68.4,D
+S0320,Computer Science,Freshman,Yes,10,College Algebra,76.1,5.0,69.3,D
+S0320,Computer Science,Freshman,Yes,10,Statistics,93.1,11.0,82.1,B
+S0321,Computer Science,Freshman,No,0,Composition,84.1,9.5,82.9,B
+S0321,Computer Science,Freshman,No,0,Intro Programming,86.2,6.9,68.5,D
+S0321,Computer Science,Freshman,No,0,College Algebra,88.8,10.9,93.4,A
+S0322,Engineering,Junior,No,20,Composition,75.3,1.6,75.4,C
+S0322,Engineering,Junior,No,20,Intro Programming,80.8,9.2,79.2,C
+S0322,Engineering,Junior,No,20,Statistics,75.3,5.9,67.5,D
+S0323,Psychology,Freshman,No,0,College Algebra,75.7,10.7,64.9,D
+S0323,Psychology,Freshman,No,0,Composition,81.8,9.9,80.3,B
+S0323,Psychology,Freshman,No,0,Chemistry,79.0,7.5,76.5,C
+S0324,Psychology,Freshman,No,10,College Algebra,69.6,3.8,69.7,D
+S0324,Psychology,Freshman,No,10,Chemistry,94.7,7.0,86.2,B
+S0324,Psychology,Freshman,No,10,Intro Programming,75.4,6.1,65.7,D
+S0325,Psychology,Freshman,No,0,Intro Programming,89.8,6.9,86.5,B
+S0325,Psychology,Freshman,No,0,Chemistry,87.2,,60.8,D
+S0325,Psychology,Freshman,No,0,College Algebra,99.5,5.0,96.0,A
+S0326,Business,Sophomore,No,20,Composition,73.8,5.0,67.7,D
+S0326,Business,Sophomore,No,20,College Algebra,100.0,9.9,87.5,B
+S0326,Business,Sophomore,No,20,Statistics,68.8,5.6,66.1,D
+S0327,Computer Science,Freshman,Yes,0,Intro Programming,86.4,8.5,84.4,B
+S0327,Computer Science,Freshman,Yes,0,Statistics,95.0,7.7,88.6,B
+S0327,Computer Science,Freshman,Yes,0,Chemistry,80.0,8.3,67.5,D
+S0328,Business,Freshman,No,0,Intro Programming,92.8,12.3,79.6,C
+S0328,Business,Freshman,No,0,Statistics,90.3,9.0,75.9,C
+S0328,Business,Freshman,No,0,Composition,86.2,3.5,61.6,D
+S0329,Psychology,Freshman,Yes,30,Intro Programming,67.5,2.8,54.6,F
+S0329,Psychology,Freshman,Yes,30,Chemistry,73.8,4.9,56.6,F
+S0329,Psychology,Freshman,Yes,30,College Algebra,69.2,9.5,62.2,D
+S0330,Psychology,Senior,No,20,Statistics,92.3,5.3,65.5,D
+S0330,Psychology,Senior,No,20,Intro Programming,78.7,3.0,80.0,C
+S0330,Psychology,Senior,No,20,Chemistry,82.4,4.4,74.9,C
+S0331,Computer Science,Sophomore,No,10,Intro Programming,80.9,8.8,69.2,D
+S0331,Computer Science,Sophomore,No,10,Chemistry,82.2,11.7,78.4,C
+S0331,Computer Science,Sophomore,No,10,College Algebra,82.3,6.5,71.4,C
+S0332,Computer Science,Junior,No,20,Composition,72.0,0.6,78.0,C
+S0332,Computer Science,Junior,No,20,Intro Programming,84.3,6.5,78.1,C
+S0332,Computer Science,Junior,No,20,College Algebra,83.4,6.9,88.8,B
+S0333,Psychology,Junior,No,0,Intro Programming,78.3,8.3,76.2,C
+S0333,Psychology,Junior,No,0,Statistics,100.0,7.6,73.0,C
+S0333,Psychology,Junior,No,0,Composition,75.9,8.6,81.7,B
+S0334,Business,Freshman,No,10,Composition,91.8,9.8,74.1,C
+S0334,Business,Freshman,No,10,Chemistry,72.4,7.9,77.7,C
+S0334,Business,Freshman,No,10,College Algebra,82.3,6.2,81.0,B
+S0335,Biology,Sophomore,No,30,Statistics,62.1,5.4,65.6,D
+S0335,Biology,Sophomore,No,30,Composition,66.9,4.1,72.4,C
+S0335,Biology,Sophomore,No,30,College Algebra,75.5,6.0,72.3,C
+S0336,Business,Senior,No,20,Intro Programming,65.3,10.9,84.2,B
+S0336,Business,Senior,No,20,Statistics,63.4,7.5,71.9,C
+S0336,Business,Senior,No,20,Composition,65.4,9.1,66.0,D
+S0337,Engineering,Freshman,No,30,Chemistry,80.2,2.5,77.6,C
+S0337,Engineering,Freshman,No,30,Composition,93.6,4.8,80.9,B
+S0337,Engineering,Freshman,No,30,College Algebra,86.3,8.7,77.6,C
+S0338,Engineering,Sophomore,No,20,Statistics,84.8,11.4,74.6,C
+S0338,Engineering,Sophomore,No,20,College Algebra,69.9,5.4,71.6,C
+S0338,Engineering,Sophomore,No,20,Composition,99.2,5.6,83.5,B
+S0339,Engineering,Sophomore,Yes,30,College Algebra,90.0,4.9,73.2,C
+S0339,Engineering,Sophomore,Yes,30,Intro Programming,55.0,5.1,71.1,C
+S0339,Engineering,Sophomore,Yes,30,Statistics,79.3,3.5,86.3,B
+S0340,Computer Science,Freshman,No,30,College Algebra,70.5,6.9,84.6,B
+S0340,Computer Science,Freshman,No,30,Composition,88.6,8.1,81.4,B
+S0340,Computer Science,Freshman,No,30,Statistics,76.5,13.0,79.5,C
+S0341,Business,Sophomore,No,20,Composition,70.1,2.4,69.7,D
+S0341,Business,Sophomore,No,20,Intro Programming,73.1,11.3,79.2,C
+S0341,Business,Sophomore,No,20,Chemistry,76.5,8.4,76.9,C
+S0342,Psychology,Junior,No,0,Composition,71.6,4.7,69.3,D
+S0342,Psychology,Junior,No,0,Intro Programming,76.5,7.5,84.2,B
+S0342,Psychology,Junior,No,0,Chemistry,86.3,5.2,92.4,A
+S0343,Biology,Sophomore,Yes,0,Chemistry,79.9,7.4,74.0,C
+S0343,Biology,Sophomore,Yes,0,Intro Programming,61.7,5.7,70.9,C
+S0343,Biology,Sophomore,Yes,0,Statistics,81.8,3.9,66.1,D
+S0344,Psychology,Senior,Yes,20,Statistics,85.3,5.5,77.2,C
+S0344,Psychology,Senior,Yes,20,Composition,71.0,6.9,81.5,B
+S0344,Psychology,Senior,Yes,20,Chemistry,80.2,6.7,58.8,F
+S0345,Engineering,Sophomore,Yes,20,Statistics,85.3,7.3,64.6,D
+S0345,Engineering,Sophomore,Yes,20,Chemistry,82.0,7.2,81.3,B
+S0345,Engineering,Sophomore,Yes,20,Intro Programming,79.1,,73.3,C
+S0346,Business,Junior,No,20,College Algebra,82.2,12.5,89.9,B
+S0346,Business,Junior,No,20,Composition,84.1,8.7,67.8,D
+S0346,Business,Junior,No,20,Statistics,86.2,7.0,66.8,D
+S0347,Business,Senior,Yes,10,Chemistry,78.9,9.3,69.3,D
+S0347,Business,Senior,Yes,10,College Algebra,82.4,6.1,60.4,D
+S0347,Business,Senior,Yes,10,Intro Programming,89.2,4.4,66.2,D
+S0348,Computer Science,Sophomore,No,20,College Algebra,80.2,8.4,58.4,F
+S0348,Computer Science,Sophomore,No,20,Statistics,76.6,2.6,57.9,F
+S0348,Computer Science,Sophomore,No,20,Chemistry,75.0,7.9,83.1,B
+S0349,Engineering,Freshman,Yes,0,Chemistry,90.9,4.6,73.0,C
+S0349,Engineering,Freshman,Yes,0,Intro Programming,85.1,8.6,87.0,B
+S0349,Engineering,Freshman,Yes,0,Statistics,76.4,9.4,60.0,D
+S0350,Psychology,Junior,No,0,Chemistry,84.8,12.0,79.4,C
+S0350,Psychology,Junior,No,0,Composition,93.1,0.0,69.1,D
+S0350,Psychology,Junior,No,0,Statistics,83.1,5.2,57.1,F
+S0351,Engineering,Sophomore,Yes,20,College Algebra,64.7,10.4,69.2,D
+S0351,Engineering,Sophomore,Yes,20,Intro Programming,71.0,,89.5,B
+S0351,Engineering,Sophomore,Yes,20,Composition,74.6,6.4,86.8,B
+S0352,Psychology,Junior,No,10,College Algebra,82.1,1.5,70.6,C
+S0352,Psychology,Junior,No,10,Chemistry,76.2,5.7,75.9,C
+S0352,Psychology,Junior,No,10,Composition,100.0,6.6,71.4,C
+S0353,Computer Science,Freshman,No,10,Chemistry,95.4,7.4,76.7,C
+S0353,Computer Science,Freshman,No,10,Composition,72.6,9.9,77.4,C
+S0353,Computer Science,Freshman,No,10,Statistics,71.9,10.6,74.6,C
+S0354,Biology,Freshman,Yes,10,College Algebra,94.6,3.3,76.6,C
+S0354,Biology,Freshman,Yes,10,Intro Programming,92.1,14.8,93.8,A
+S0354,Biology,Freshman,Yes,10,Composition,80.5,2.2,73.4,C
+S0355,Biology,Freshman,Yes,20,Intro Programming,92.1,6.3,84.8,B
+S0355,Biology,Freshman,Yes,20,Composition,51.4,6.3,59.2,F
+S0355,Biology,Freshman,Yes,20,College Algebra,70.1,4.8,77.8,C
+S0356,Engineering,Sophomore,No,20,College Algebra,80.8,4.2,58.7,F
+S0356,Engineering,Sophomore,No,20,Composition,69.0,5.5,72.9,C
+S0356,Engineering,Sophomore,No,20,Chemistry,93.9,2.1,60.6,D
+S0357,Psychology,Freshman,Yes,30,Chemistry,73.8,5.8,67.3,D
+S0357,Psychology,Freshman,Yes,30,College Algebra,72.3,2.4,70.8,C
+S0357,Psychology,Freshman,Yes,30,Intro Programming,94.1,4.7,70.2,C
+S0358,Business,Freshman,No,0,Composition,80.7,8.9,76.4,C
+S0358,Business,Freshman,No,0,Intro Programming,82.3,11.9,77.1,C
+S0358,Business,Freshman,No,0,Statistics,78.5,5.4,75.3,C
+S0359,Computer Science,Senior,No,0,Intro Programming,76.9,12.8,96.3,A
+S0359,Computer Science,Senior,No,0,Chemistry,67.7,10.9,64.2,D
+S0359,Computer Science,Senior,No,0,Composition,84.5,4.8,76.6,C
+S0360,Biology,Freshman,Yes,20,Chemistry,78.4,9.4,78.9,C
+S0360,Biology,Freshman,Yes,20,Intro Programming,96.3,7.7,85.4,B
+S0360,Biology,Freshman,Yes,20,College Algebra,92.1,8.2,83.3,B
+S0361,Business,Freshman,No,30,Composition,62.3,13.6,56.5,F
+S0361,Business,Freshman,No,30,Intro Programming,94.1,4.1,93.1,A
+S0361,Business,Freshman,No,30,College Algebra,67.4,5.7,79.2,C
+S0362,Business,Senior,Yes,0,Composition,90.5,9.1,91.6,A
+S0362,Business,Senior,Yes,0,College Algebra,73.4,4.9,68.7,D
+S0362,Business,Senior,Yes,0,Chemistry,83.4,4.1,65.1,D
+S0363,Engineering,Senior,Yes,20,Chemistry,83.4,7.0,47.6,F
+S0363,Engineering,Senior,Yes,20,Statistics,74.3,9.7,71.6,C
+S0363,Engineering,Senior,Yes,20,Composition,75.8,9.7,83.1,B
+S0364,Psychology,Sophomore,No,20,Chemistry,81.5,2.3,58.4,F
+S0364,Psychology,Sophomore,No,20,Intro Programming,66.0,14.9,75.0,C
+S0364,Psychology,Sophomore,No,20,College Algebra,87.1,6.0,70.6,C
+S0365,Computer Science,Junior,Yes,20,College Algebra,70.6,4.4,79.9,C
+S0365,Computer Science,Junior,Yes,20,Statistics,65.3,10.2,77.5,C
+S0365,Computer Science,Junior,Yes,20,Intro Programming,77.1,1.8,60.5,D
+S0366,Psychology,Sophomore,No,0,Composition,93.2,5.4,88.1,B
+S0366,Psychology,Sophomore,No,0,Chemistry,91.1,11.4,92.3,A
+S0366,Psychology,Sophomore,No,0,Intro Programming,81.6,1.8,70.9,C
+S0367,Engineering,Freshman,No,30,Intro Programming,77.3,5.9,65.7,D
+S0367,Engineering,Freshman,No,30,Statistics,63.6,2.1,64.2,D
+S0367,Engineering,Freshman,No,30,College Algebra,80.2,1.2,69.3,D
+S0368,Computer Science,Sophomore,Yes,30,College Algebra,71.6,0.0,72.7,C
+S0368,Computer Science,Sophomore,Yes,30,Intro Programming,81.1,6.7,70.3,C
+S0368,Computer Science,Sophomore,Yes,30,Statistics,77.1,7.2,91.9,A
+S0369,Psychology,Sophomore,Yes,0,Chemistry,78.9,6.6,78.6,C
+S0369,Psychology,Sophomore,Yes,0,Composition,95.7,7.3,76.1,C
+S0369,Psychology,Sophomore,Yes,0,Statistics,78.8,8.1,61.3,D
+S0370,Business,Junior,No,20,Intro Programming,83.8,4.5,62.0,D
+S0370,Business,Junior,No,20,College Algebra,83.4,7.0,80.7,B
+S0370,Business,Junior,No,20,Composition,74.7,5.8,68.1,D
+S0371,Business,Junior,No,30,Composition,76.3,4.3,86.6,B
+S0371,Business,Junior,No,30,Chemistry,70.1,3.6,53.8,F
+S0371,Business,Junior,No,30,Intro Programming,70.6,9.1,74.5,C
+S0372,Psychology,Sophomore,No,10,Composition,94.2,6.1,77.2,C
+S0372,Psychology,Sophomore,No,10,Chemistry,80.8,6.5,79.6,C
+S0372,Psychology,Sophomore,No,10,Statistics,77.8,9.2,77.3,C
+S0373,Computer Science,Junior,No,20,Chemistry,62.3,7.1,89.1,B
+S0373,Computer Science,Junior,No,20,Composition,72.8,1.8,73.2,C
+S0373,Computer Science,Junior,No,20,Statistics,76.2,8.4,59.9,F
+S0374,Business,Freshman,Yes,20,Composition,65.5,2.2,63.2,D
+S0374,Business,Freshman,Yes,20,College Algebra,83.0,3.9,81.1,B
+S0374,Business,Freshman,Yes,20,Statistics,89.2,0.5,77.4,C
+S0375,Psychology,Freshman,Yes,10,College Algebra,87.8,4.8,67.5,D
+S0375,Psychology,Freshman,Yes,10,Chemistry,87.6,8.0,75.3,C
+S0375,Psychology,Freshman,Yes,10,Intro Programming,78.8,6.0,69.2,D
+S0376,Psychology,Junior,Yes,10,Statistics,82.3,5.7,86.6,B
+S0376,Psychology,Junior,Yes,10,Chemistry,98.8,11.0,93.3,A
+S0376,Psychology,Junior,Yes,10,Intro Programming,95.0,4.2,84.4,B
+S0377,Business,Sophomore,No,30,Composition,68.2,12.0,77.3,C
+S0377,Business,Sophomore,No,30,Statistics,91.5,4.8,70.0,D
+S0377,Business,Sophomore,No,30,College Algebra,63.3,2.7,63.9,D
+S0378,Psychology,Sophomore,No,20,Composition,92.3,8.9,77.0,C
+S0378,Psychology,Sophomore,No,20,Intro Programming,72.7,4.2,75.9,C
+S0378,Psychology,Sophomore,No,20,Statistics,89.7,2.1,88.2,B
+S0379,Business,Freshman,No,20,Chemistry,74.5,8.5,63.6,D
+S0379,Business,Freshman,No,20,Composition,74.8,1.5,69.5,D
+S0379,Business,Freshman,No,20,Statistics,72.0,5.8,67.7,D
+S0380,Computer Science,Senior,No,10,Composition,78.0,5.2,58.7,F
+S0380,Computer Science,Senior,No,10,College Algebra,87.4,4.8,87.6,B
+S0380,Computer Science,Senior,No,10,Chemistry,79.7,4.8,73.1,C
+S0381,Biology,Freshman,Yes,0,Statistics,98.4,10.7,81.2,B
+S0381,Biology,Freshman,Yes,0,Composition,94.5,15.0,75.2,C
+S0381,Biology,Freshman,Yes,0,College Algebra,86.0,0.2,75.0,C
+S0382,Computer Science,Senior,No,30,Intro Programming,68.8,2.5,79.8,C
+S0382,Computer Science,Senior,No,30,College Algebra,73.4,6.5,80.5,B
+S0382,Computer Science,Senior,No,30,Chemistry,53.7,0.0,65.9,D
+S0383,Biology,Sophomore,No,10,College Algebra,84.8,8.9,93.3,A
+S0383,Biology,Sophomore,No,10,Chemistry,82.4,4.3,59.8,F
+S0383,Biology,Sophomore,No,10,Composition,68.8,9.1,75.8,C
+S0384,Business,Senior,No,10,Composition,89.5,7.3,82.7,B
+S0384,Business,Senior,No,10,Statistics,84.7,5.6,79.5,C
+S0384,Business,Senior,No,10,College Algebra,77.6,4.8,54.0,F
+S0385,Psychology,Junior,Yes,20,Composition,75.1,6.0,87.6,B
+S0385,Psychology,Junior,Yes,20,Chemistry,84.3,0.8,48.9,F
+S0385,Psychology,Junior,Yes,20,College Algebra,82.8,2.2,68.6,D
+S0386,Business,Freshman,No,0,Statistics,65.7,5.3,76.3,C
+S0386,Business,Freshman,No,0,Intro Programming,80.5,4.9,73.6,C
+S0386,Business,Freshman,No,0,College Algebra,89.3,8.3,81.4,B
+S0387,Biology,Junior,Yes,10,College Algebra,73.1,11.4,84.8,B
+S0387,Biology,Junior,Yes,10,Composition,73.9,6.1,69.5,D
+S0387,Biology,Junior,Yes,10,Chemistry,70.2,3.3,70.4,C
+S0388,Psychology,Sophomore,No,20,Intro Programming,78.0,5.7,85.6,B
+S0388,Psychology,Sophomore,No,20,Statistics,93.3,6.3,62.5,D
+S0388,Psychology,Sophomore,No,20,Chemistry,64.3,5.2,69.3,D
+S0389,Engineering,Sophomore,Yes,10,Statistics,80.6,4.4,73.5,C
+S0389,Engineering,Sophomore,Yes,10,College Algebra,71.9,4.1,73.5,C
+S0389,Engineering,Sophomore,Yes,10,Intro Programming,87.9,6.8,74.7,C
+S0390,Psychology,Freshman,No,30,Statistics,90.5,0.6,64.7,D
+S0390,Psychology,Freshman,No,30,Intro Programming,64.0,8.6,82.1,B
+S0390,Psychology,Freshman,No,30,Composition,63.2,9.6,79.4,C
+S0391,Computer Science,Sophomore,No,10,Intro Programming,78.7,8.1,71.1,C
+S0391,Computer Science,Sophomore,No,10,Chemistry,92.2,10.1,70.1,C
+S0391,Computer Science,Sophomore,No,10,Statistics,77.7,6.3,75.0,C
+S0392,Engineering,Freshman,Yes,20,College Algebra,98.3,1.6,81.6,B
+S0392,Engineering,Freshman,Yes,20,Composition,85.8,9.1,77.6,C
+S0392,Engineering,Freshman,Yes,20,Chemistry,75.8,7.4,61.2,D
+S0393,Business,Sophomore,No,0,Statistics,66.3,9.6,68.0,D
+S0393,Business,Sophomore,No,0,Chemistry,100.0,8.9,81.9,B
+S0393,Business,Sophomore,No,0,Composition,90.6,9.9,83.5,B
+S0394,Business,Freshman,No,0,Intro Programming,87.6,7.7,78.7,C
+S0394,Business,Freshman,No,0,Composition,74.2,5.2,74.8,C
+S0394,Business,Freshman,No,0,Statistics,90.8,5.3,75.6,C
+S0395,Business,Junior,Yes,20,Intro Programming,70.2,5.0,70.4,C
+S0395,Business,Junior,Yes,20,College Algebra,94.4,8.3,82.8,B
+S0395,Business,Junior,Yes,20,Chemistry,85.6,1.2,78.7,C
+S0396,Biology,Junior,No,10,College Algebra,82.3,0.0,85.2,B
+S0396,Biology,Junior,No,10,Chemistry,88.3,14.7,86.1,B
+S0396,Biology,Junior,No,10,Statistics,92.7,7.7,78.1,C
+S0397,Biology,Freshman,Yes,20,Composition,79.3,5.2,86.4,B
+S0397,Biology,Freshman,Yes,20,Statistics,73.8,4.0,72.7,C
+S0397,Biology,Freshman,Yes,20,Intro Programming,78.4,5.3,73.8,C
+S0398,Biology,Sophomore,No,20,College Algebra,59.4,6.6,73.4,C
+S0398,Biology,Sophomore,No,20,Chemistry,65.6,6.2,65.0,D
+S0398,Biology,Sophomore,No,20,Statistics,63.7,5.2,64.5,D
+S0399,Engineering,Sophomore,Yes,30,Statistics,71.6,5.4,62.8,D
+S0399,Engineering,Sophomore,Yes,30,College Algebra,66.3,6.1,79.1,C
+S0399,Engineering,Sophomore,Yes,30,Chemistry,66.4,5.2,67.0,D
+S0400,Business,Freshman,Yes,20,Chemistry,82.9,8.7,92.6,A
+S0400,Business,Freshman,Yes,20,Composition,87.5,7.3,73.8,C
+S0400,Business,Freshman,Yes,20,Intro Programming,70.9,8.8,71.9,C
