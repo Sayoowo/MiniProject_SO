@@ -47,7 +47,6 @@ min_attendance = st.sidebar.slider(
 )
 # Keep rows that match BOTH filters. Each condition needs brackets because & runs before >=
 filtered = df[
-filtered = df[
     df["course"].isin(selected_courses)
     & (df["attendance_pct"] >= min_attendance)
 ]
